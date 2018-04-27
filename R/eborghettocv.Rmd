@@ -1,0 +1,344 @@
+---
+title: "CV"
+author: "Enrico Borghetto"
+fontfamily: mathpazo
+output:
+  pdf_document:
+    latex_engine: pdflatex
+    template: C:\Users\Enrico Borghetto\Dropbox\politics_blog\data\svm-latex-cv.tex
+  word_document: default
+  html_document: default
+fontsize: 11pt
+geometry: margin=1in
+jobtitle: FCT Investigator
+linkcolor: blue
+fontfamilyoptions: sc, osf
+email: enrico.borghetto@fcsh.unl.pt
+updated: no
+urlcolor: blue
+web: enricoborghetto.netlify.com
+---
+
+```{r, echo=FALSE, cache=FALSE}
+df <- Sys.Date()
+```
+Last updated: `r Sys.Date()`
+
+## WORK ADDRESS
+Interdisciplinary Centre of Social Sciences – CICS.NOVA   
+NOVA University of Lisbon  
+Avenida de Berna, n. 26-C, 1069-061 Lisboa
+
+## ACADEMIC APPOINTMENTS
+* **2015-PRESENT**	FCT investigator at CICS.NOVA, FCSH  
+    University NOVA of Lisbon, Portugal  
+    
+* **2013-2015**	Postdoctoral Researcher at CESNOVA, FCSH, with a project entitled "The policy agenda at the time of crisis in Europe's periphery" (Grant funded by the Fundação para a Ciência e a Tecnologia, SFRH/BPD/89968/2012)  
+    University NOVA of Lisbon, Portugal
+    
+* **2008-2012**	Postdoctoral Researcher, Department of Social and Political Studies with a project entitled "The europeanisation of executive-legislative relations: national parliaments and Community legislation"  
+    University of Milan, Milano, Italy
+
+
+## EDUCATION
+* **2003-2007**	Ph.D. in Political Studies  
+    Graduate School in Social, Economic and Political Sciences of the University of Milan  
+    Dissertation: 'Non-compliance with the transposition deadlines of EU directives: the Italian case. Explaining transposition of EU directives into Italian legislation' (written in English and discussed on 17/07/2007) Supervisor: Prof. Marco Giuliani, Examination Committee Chair: Prof. Maurizio Ferrera
+    
+* **1998-2003**	University Degree in International and Diplomatic Sciences (110/110 magna cum laude)  
+    University of Bologna (Forlì), Faculty of International and Diplomatic Sciences   
+    Dissertation: "The accountability of international organisations: the Principal -Agent model applied to the WTO and the IMF". Supervisor: Prof. Salvatore Vassallo
+    
+* **1993-1998**	High School Diploma in Foreign Languages (English, French and German)  
+    Liceo Linguistico sperimentale A.Canova, Treviso
+
+## RESEARCH EXPERIENCE
+* **2015-PRESENT** Principal investigator "Portuguese Parliament: Agenda-setting and Law-making" Project financed by the Fundação para a Ciência e a Tecnologia (IF/00382/2014)
+
+* **2015-PRESENT** Researcher in the project "Democracy in times of crisis: Power and Discourse in a three-level game", Project financed by the Fundação para a Ciência e a Tecnologia (PTDC/IVC-CPO/2247/2014) URL: https://goo.gl/ExHizi
+
+* **2015-PRESENT** Researcher in the project "Crisis, Political Representation and Democratic Renewal: The Portuguese case in the Southern European context", Project financed by the Fundação para a Ciência e a Tecnologia (PTDC/IVC-CPO/3098/2014) URL: https://goo.gl/HMBMaK
+
+* **2014-PRESENT** Principal investigator in the Portuguese team participating in the European project "Political Leaders in European Cities" (Coordinated by the University of Florence) 
+    This project deals with the role of Mayors and the transformation of political representation and careers at the local level.  
+    
+* **2013-2015** Associate researcher for the project "Public preferences and Policy decision-making: a comparative analysis" Project financed by the Fundação para a Ciência e a Tecnologia (PTDC/IVC-CPO/3921/2012)  
+    This project aims at increasing our understanding of democratic party government and the relationship between the public opinion and the agenda-setting process in Portugal.
+    
+* **2010-PRESENT** Co-manager of the ILMA (Italian-Law Making Database)  
+    ILMA originated from an idea of a group of scholars affiliated with the Department of Social and Political Studies at the Università degli Studi di Milano, and it is one of the scientific products of the Center for the Observation of Legislatures (COoL). It is a relational database that combines information on Italian legislation, roll calls and political elites. It currently covers six Italian legislatures (1987-2008).
+    
+* **2010-2012** Member of the research unit of the University of Milan in the project “Institutional agenda setting: Actors, time, information.” co-financed by the Italian Ministry for Research and Higher Education (PRIN 2009, Protocol 2009TPW4NL_002, Principal Investigator: prof. Marco Giuliani).  
+   
+* **2009-PRESENT** Researcher and one of the Principal Investigators for the project "Italian Policy Agendas"  
+    This is a joint research project involving the Universities of Milan, Siena and Malta (http://italianpolicyagendas.weebly.com). It aims at exploring the evolution of issue attention in various institutions (media, political parties, parliament, government) and its impact on public policy outcomes using an agenda-setting perspective. It is part of a larger international research network: the "Comparative Agendas Project".
+    
+* **2008-2012**	Researcher in the Italian team participating in the European project "Delors' Myth: The scope and impact of Europeanization on law production". 
+    The project aims are: 1) developing new methods to quantitatively measure the Europeanization of national public policies (i.e. the scope and extent national policies are shaped by EU law and policy); 2) analysing the impact of EU policy-making on the relationship between government and parliament in each of the nine countries under study.  
+    
+* **Feb/Mar 2012** Visiting Fellow Mannheim Centre for European Social Research (MZES)    
+    University of Mannheim, Mannheim, Germany
+    
+* **Jun/Aug 2010** Visiting Fellow, Center for American Politics and Public Policy (CAPPP)    
+    University of Washington, Seattle, USA
+    
+* **2006** Research assistant at the Research Unit on European Governance (URGE)  
+    Collegio Carlo Alberto di Moncalieri, Torino, Italy  
+    Key areas of responsibility: review of the literature relevant for URGE projects; assistance in the preparation of manuscripts and reports; management of events organized by URGE.
+    
+* **Jan/Aug 2005** 	Research assistant for the project: "Compliance with EU Law: Explaining the Transposition of EU Directives" (Coordinator: Prof. Fabio Franchino)  
+    University College London, Department of Political Science, London, UK  
+    Key areas of responsibility: data collection and maintenance of the database on national transposition of EU directives; review of the literature on EU Compliance; contribution to joint publications.
+    
+* **Oct/Dec 2004** 	Research assistant for the project "Political representation and legislative process in the regions and the autonomous provinces in Italy" (Coordinator Prof. Salvatore Vassallo)  
+    Istituto Carlo Cattaneo and Università di Bologna, Bologna, Italy  
+    Key areas of responsibility: assistance in drafting the questionnaire; interviews with over 30 members of the Lombardia Regional Council.
+    
+* **Nov 2002-Mar 2003**	One World Trust (OWT), London  
+    Internship at OWT, think tank based at the House of Commons in London. OWT undertakes research and education projects to promote global democracy. This internship was an integral part of my undergraduate thesis preparation.
+
+## TEACHING EXPERIENCE
+* **29/8/2016-02/09/2016** The political and social consequences of the Great Recession in Southern Europe  
+    Master Course, Nova University of Lisbon, 10 ECTS
+    
+* **02/03/2016-25/05/2016** The Essentials of Data Analysis in R   
+    Lisbon Summer School, NOVA University of Lisbon
+    
+* **09/09/2015-12/03/2015** The Essentials of Quantitative Research. Data Analysis in R   
+    Third Lisbon Winter School in Research Skills and Methods, NOVA University of Lisbon, 2 ECTS  
+   
+* **10/02/2014-13/02/2014** The Essentials of Quantitative Research. Data Analysis in R   
+    Second Lisbon Winter School in Research Skills and Methods, NOVA University of Lisbon, 2 ECTS 
+
+* **03/05/2013-08/05/2013** Introduction to Event History Analysis with STATA   
+    Graduate School of the University of Milan, Milan, May 2013   
+     
+* **13/02/2013-16/02/2013** Introduction to Event History Analysis   
+    First Lisbon Winter School in Research Skills and Methods, NOVA University of Lisbon, 2 ECTS
+    
+* **2010-2012** Teaching assistant for the postgraduate course "Democratic Governance and Public Administration: The European Union" (Prof.Fabio Franchino)  
+    University of Milan, Faculty of Political Science, Master in Economics and Political Science  
+    Key areas of responsibility: collaboration to course design, supervising students, guest lecturer   
+    
+* **2006-2011** Teaching assistant for the undergraduate course "Introduction to Political Science" (Prof.Fabio Franchino)  
+    University of Milan, Faculty of Political Science, Degree in International studies and European institutions  
+    Key areas of responsibility: preparing and grading exams, supervising students, guest lecturer.  
+    
+## GRANTS AWARDED  
+* Part of the research team located in Milan university awarded the PRIN funding in both 2007 (prot. scrwt4) and 2009 (prot. 2009TPW4NL_002). PRIN= Research Programs of National Relevance awarded by the Italian Ministry of Education and Research
+
+* Research Unit on European Governance (URGE) – 1-year research grant
+
+* PhD scholarship (2003-2007) by the Italian Ministry of Education and Research
+
+* 6-month scholarship in 2002 to conduct undergraduate thesis research in the UK (awarded by the University of Bologna-Forlì)
+
+* 9-month Erasmus scholarship in 2000, University of Sussex, UK
+
+## PUBLICATIONS  
+* with Marco Lisi (Forthcoming, 2018) "Productivity and re-selection in a party-based environment: evidence from the Portuguese case" Parliamentary Affairs   
+
+*	(Forthcoming, 2018) "Delegated decree authority in a parliamentary system. The exercise of legislative delegation in Italy (1987-2013)" Journal of legislative Studies  
+
+*	(Forthcoming, 2018) "Anti-populism", in F.José Eduardo (Ed) Dicionário dos Antis. A Cultura Portuguesa em Negativo, Imprensa Nacional-Casa da Moeda  
+
+*	with Federico Russo (2018) From agenda setters to agenda takers? The determinants of party issue attention in times of crisis. Party Politics 24, 65–77
+
+*	with Ivan Koprić, Eva Marín Hlynsdóttir, Jasmina Džinić (2018), Institutional Environments and Mayors’ Role Perceptions, In H. Heinelt et al. (eds.), Political Leaders and Changing Local Democracy, Palgrave Macmillan   
+  
+*	with Francesco Visconti and Marco Michieli (2017) "Government Agenda Setting in Italian Coalitions, Testing the partisan hypothesis using Italian investiture speeches 1979-2014" Italian Journal of Public Policies (2): 193-220
+
+*  , (2016), Book review “Crise Económica, Políticas de Austeridade e Representação Política, Lisboa, Assembleia da República – Divisão de edições, 2015”. Análise Social, 219, li (2.º), pp. 462-466.   
+
+* , (2015), "Questioning the government in  time of crisis. An analysis of Question Time in Spain", In J. Preunkert and G. Vobruba (Eds) Aftermath. Beyond the Crisis of the European Currency, Lisbon: Colibri, 91-116  
+
+* , (2015), "Challenging Italian Centralism through the Vertical Shift of Competences to the Subnational and Supranational Levels." Contemporary Italian Politics 7 (1): 58–75.  
+
+* with Marcello Carammia (2015) "The Influence of Coalition Parties on Executive Agendas in Italy (1983-2008)." In The Challenge of Coalition Government: The Italian Case, eds. Nicolò Conti and Francesco Marangoni. Abingdon: Routledge, 36–57.
+
+* with Francesco Visconti (2015) "Governing by Revising. A Study on Post-Enactment Policy Change in Italy." In The Challenge of Coalition Government: The Italian Case, eds. Nicolò Conti and Francesco Marangoni. Abingdon: Routledge, 106–27.
+
+* , (2014) Legislative processes as sequences: exploring the temporal dimension of law-making by means of sequence analysis, International Review of Administrative Sciences. 80:3, pp.553-76
+
+* with Lars Mader (2014) EU Law Revisions and Legislative Drift, European Union Politics.15:2, pp.171-191
+
+* with Marcello Carammia and Francesco Zucchini (2014). The impact of party priorities on Italian law-making from The First to the Second Republic,  In C.Green Pedersen and S.Walgrave (Eds.) Agenda Setting, Policies, and Political Systems, Chicago: Chicago University Press, pp.164-182
+
+* , (2013) Keeping the pace with Europe: Non-compliance with the transposition deadlines of EU directives in the Italian case, Novi Ligure: Epoke edizioni, ISBN: 978-88-98014-13-2  
+
+* with Luigi Curini, Marco Giuliani, Alessandro Pellegata and Francesco Zucchini (2012) Italian Law-Making Archive (ILMA): A new tool for the analysis of the Italian legislative process, Rivista Italiana di Scienza Politica, 3 pp. 481-502
+
+* with Marco Giuliani (2012) A Long Way to Tipperary: Time in the Italian Legislative Process 1987-2008, South European Society and Politics , 17:1 pp.23-44
+
+* with Marco Giuliani and Francesco Zucchini (2011) "Leading governments and unwilling legislators. The European Union and the Italian Law making (1987-2006)", in S. Brouard, O. Costa and T.König (Eds), The Europeanization of Domestic Legislatures, New York:Springer, pp.109-130 
+
+* with Fabio Franchino (2010) "The Role of Subnational Authorities in the Implementation of EU Directives", Journal of European Public Policy, 17:6, pp. 759 - 780
+
+* with Marcello Carammia (2010) "L'analisi comparata delle agenda politiche: il Comparative Agendas Project", Rivista Italiana di Scienza Politica, n.2, pp.301-315
+
+* with Marco Giuliani and Francesco Zucchini (2009) "Quanta Bruxelles c'è a Roma? L'europeizzazione della produzione normativa italiana.", Rivista italiana di Politiche Pubbliche, n.1, pp.135-162
+
+*	with Fabio Franchino and Daniela Giannetti (2006) "Complying with the Transposition Deadlines of EU Directives: Evidence from Italy", Rivista Italiana di Politiche Pubbliche, n.5, pp. 7-38.
+
+## OTHER RESEARCH OUTPUTS  
+
+* with Elisabetta De Giorgi and Marco Lisi (2014) Government failure, opposition success? Parties electoral performance in Portugal and Italy at the time of the crisis.Jean Monnet Occasional Paper, No.05/2014, Institute for European Studies (Malta).  
+
+* The respect of transposition deadlines in Italy: do political priorities matter? URGE Working paper 7/2007  
+
+## WORK IN PROGRESS
+*	with Marcello Carammia and Shaun Bevan. Changing the Transmission Belt: The Programme-to-Policy Link in Italy between the First and Second Republic. [submitted]   
+
+*	with Marco Lisi. Populism, blame shifting and the crisis: communication strategies in Portuguese political parties [submitted]     
+
+* with Derek Epp. Economic inequality and legislative agendas in Europe [submitted].  
+
+*	with Alessandro Pellegata. Exploring bill winnowing in the Italian Chamber of Deputies. Working paper 
+
+*	with André Freire and José Santana Lopes. Constituency Characteristics, Expertise, Civil Society Links and Parliamentary Questions: Evidence from Portugal. Working paper  
+
+*	with Marco Lisi. Parliamentary questions and individual representation in a party-dominated environment: evidence from Portugal. Working paper  
+
+*	with Ana Belchior. The transmission of policy agendas. The effect of party competition on the gap between electoral priorities and policy outputs. Working paper  
+
+*	with Elisabetta de Giorgi. The Five-Star Movement in Parliament: a Truly New Kind of Parliamentary Opposition?
+
+*	with Ana Belchior. The determinants of the executive weekly agenda in Portugal: party mandates vs media attention  
+
+## CONFERENCE PAPERS (A SELECTION)
+*	"The determinants of the executive weekly agenda in Portugal: party mandates vs media attention" 6th December, 2017, University of Texas, Austin       
+
+*	"The Five-Star Movement in Parliament: a Truly New Kind of Parliamentary Opposition?", 14-16 September 2017, Annual Conference of the Italian Political Science Association, Urbino  
+
+*	"Constituency Characteristics, Expertise, Civil Society Links and Parliamentary Questions: Evidence from Portugal." 6-9 September 2017, ECPR General Conference, Oslo  
+
+*	"Populism, blame shifting and the crisis: communication strategies in Portuguese political parties", 6-9 September 2017, ECPR General Conference, Oslo  
+
+*	"The determinants of the executive weekly agenda in Portugal: party mandates vs media attention" June 15-17, 2017, Annual Conference of the Comparative Agendas network, Edinburgh  
+
+* "Delegated decree authority in a parliamentary system. The exercise of legislative delegation in Italy" (1987-2013), 15-17 September 2016, SISP Annual Conference, University of Milan     
+   
+*  "Parliamentary Questions and Individual Representation in a Party-Dominated Environment: Evidence from Portugal", July 23-28, 2016, IPSA World Congress - International Political Science Association, Poznań, Poland   
+     
+* "Parliamentary Questions and Individual Representation in a Party-Dominated Environment: Evidence from Portugal", June 30 to July 2 2016, ECPR Standing group on parliaments, University of Munich   
+    
+* "Between contraction of agendas and issue expansion: The impact of the Euro crisis on parties’ issue attention", 27-29 June 2016, Annual Conference Comparative Agendas Project, University of Geneva.   
+   
+* "The determinants of party issue attention in time of crisis: from agenda setters to agenda takers?", 
+10-12 March, 2016, Portuguese Association of Political Science, Nova University of Lisbon.  
+
+* "Challenging the government in parliament: an analysis of question time in time of austerity", 
+Workshop “O Lusitanismo Italiano" 17-18 December, 2015, University of Bologna.  
+   
+* "Challenging the government in parliament: an analysis of question time in time of austerity", 
+Workshop “Party Competition and Political Representation in Crisis: A Comparative Perspective" 24-25 September, 2015, at the European University Institute, Florence.       
+   
+* "The transmission of policy agendas. The effect of party competition on the gap between electoral priorities and policy outputs", 22-24 June 2015, Annual Conference Comparative Agendas Project, University of Lisbon  
+  
+* "The impact of party priorities on Portuguese legislative activities", 22-24 June 2015, Annual Conference Comparative Agendas Project, University of Lisbon  
+   
+* "Questioning the government in time of crisis. A comparative analysis of the content of parliamentary questions in Italy, Portugal and Spain", 20-21 November 2014,  Workshop "Policy-Making in Hard Times: Southern European Countries in a Comparative Perspective", Institut Barcelona d'Estudis Internacionals (IBEI) & Instituto Carlos III-Juan March de Ciencias Sociales (IC3JM), Madrid   
+
+* "Challenging Italian centralism: the vertical shift of competences to the subnational and supranational level". 11-13 September 2014, SISP Annual Conference, University of Perugia    
+
+* "Exploring Bill Winnowing in the Italian Chamber of Deputies (1996-2012)",  11 – 12 July 2014, Workshop "Parliamentary Scrutiny of EU Politics" Heidelberg University   
+  
+* "Agenda-setting in times of crisis", 24-26 July 2014, Workshop "Changes to political representation in Southern Europe in times of crisis", University of Nottingham, UK  
+   
+* "Questioning the government in times of crisis", 14-16 April 2014, Biannual Conference Portuguese Political Science Association, Coimbra   
+   
+* "The political fallouts of the Great Depression", 28 April 2014, ASEU - Jean Monnet Module on Agenda-Setting in the European Union, University of Malta, Malta   
+
+*	"Tracking attention to issues as a way to learn about political systems", 23 October 2013, INESD, Instituto de Engenharia de Sistemas e Computadores, Investigação e Desenvolvimento, Lisboa   
+   
+*	"Government Agenda-Setting in Italian Coalitions: An analysis of investiture speeches in Italy 1979-2013", 12-14 September 2013, SISP Annual Conference, Florence 
+
+*	"The Influence of Coalition Parties on Governments' Legislative Agendas in Italy Between the First and Second Republic". 27-29 June 2013, Annual Conference Comparative Agendas Project, Antwerp
+
+*	"The evolution of Italian law. A study on post-enactment policy change between the 1st and 2nd Italian Republic", 13-15 September 2012, SISP Annual Conference, Rome   
+
+* "Italian: Law-Making Archive: A New Tool For the Analysis Of the Italian Legislative Process", 6 July 2012, The Law Factory, (Sciences Po, CEE, Regards Citoyens, Médialab), Paris    
+
+*	"Legislative processes as sequences: exploring the temporal dimension of law-making by means of sequence analysis", 10-15 April 2012, ECPR Joint Session 2012, Antwerp 
+
+*	"Legislative processes as sequences: exploring the temporal dimension of law-making by means of sequence analysis", 6-8 June 2012, Lausanne Conference on Sequence Analysis, Lausanne   
+
+*	"The evolution of EU law: analysing the longevity of EU legislation", 16-18 June 2011, 2011 EPSA General Conference, Dublin  
+
+*	"The impact of party priorities on Italian law-making from the First to the Second Republic", 17-18 June 2010, 2010 Comparative Policy Agendas Conference, University of Washington, Seattle   
+
+*	"The impact of party priorities on Italian law-making from the First to the Second Republic", 20-21 May 2010, "Political Parties and Comparative Policy Agendas: an ESF Workshop on Political Parties and their Positions, and Policy Agendas", University of Manchester, UK  
+
+*	"Exploring why Italian executives fail to exercise the legislative powers they are delegated", 14-15 January 2010, the "International conference on democracy as idea and practice", University of Oslo, Norway
+   
+*	"Exploring why Italian executives do not exercise the legislative powers they are delegated", 9-12 September 2009, 2009 ECPR General Conference, Potsdam   
+  
+*	"Leading governments and unwilling legislators. The European Union and the Italian Law making (1987-2006)", Hague, 17 June 2009, "Delors' Myth Workshop 2: The scope and impact of Europeanization of law production"   
+  
+*	"The regional dimension of EU policy implementation", 25-27 September 2008, "Fourth Pan-European Conference on EU Politics (ECPR)", Riga     
+
+*	"The pace of the legislative process. A diachronic analysis of the Italian legislature (1996-2006)", 4-6 September 2008, 2008 SISP (Italian Political Science Association) annual conference", Pavia
+
+*	"The timely transposition of EU directives in Italy: do political priorities matter?",  11-16 April 2008, ECPR Joint sessions of workshops, Workshop "The Long Arm of EU Law", Rennes  
+  
+## ADDITIONAL TRAINING
+* **Mar 2017**	ECPR Winter School in Methods and Techniques, Bamberg, Germany  
+    One-week course in 'Time-series Analysis'.   
+     
+* **Feb 2012**	ECPR Winter School in Methods and Techniques, Vienna, Austria  
+    One-week course in 'Sequence Analysis'.   
+    
+*	**Jun 2010** Five day workshop on sequence analysis for political scientists
+Tools for text workshop, University of Washington, Seattle, US     
+    Two-day workshop covering a range of content analysis approaches: Manual Annotation; Unsupervised Learning; Supervised Learning; Dimensional Scaling.   
+    
+* **Mar 2010**	Oxford Spring School, Oxford, UK  
+    One-week course in "Modern Regression".
+    
+* **Jun 2009**	Empirical Implications of Theoretical Models, Mannheim, Germany  
+    The two-week summer school focused on modelling techniques and methods of empirical testing theoretical models in the social science. 
+
+* **Jul 2005**	Essex Summer School in Social Science Data Analysis, UK  
+    The two-week summer school focused on Maths for Social Scientists, Survival Analysis, Mixing Methods
+
+## OTHER PROFESSIONAL ACTIVITIES
+
+### Academic service 
+*	Co-chair for the 8th annual International Conference of the Comparative Agendas Project, Nova University of Lisbon/ISCTE, 22-24 June 2015. http://www.comparativeagendas.net/pages/2015-conference-in-lisbon-portugal  
+
+* Organizer for the Pedro Hispano Winter School in Research Skills and Methods 2014 and 2015, Lisboa  
+
+* Chair and discussant in the Conference "Transnational public participation and social movement activism", Conference FCSH/CIES, November 2013  
+  
+*	Chair and discussant in the panel "The comparative analysis of policy agendas" organized for the 2011 SISP (Italian Political Science Association) annual conference, Palermo University, Palermo, 8-10 September 2011
+
+*	Member of the organizing committee for the 4th annual International Conference of the Comparative Agendas Project, University of Catania, 23-25 June 2011
+
+*	Chair and discussant in the panel "Agenda-setting e policy making" organized for the 2009 SISP (Italian Political Science Association) annual conference, LUISS University, Roma, 17-19 September 2009
+
+*	Discussant in the "Project Colloquium Seminars", Graduate School of the University of Milan (since 2009)
+
+### Translation	
+* Il Mulino Publishing House, Bologna  
+    Translation from English to Italian of the book "The government and politics of the European Union" by N.Nugent, London: MacMillan (2006, 6° ed.)
+
+### Peer Review	  
+* European Union Politics  
+* Journal of European Political Research  
+* Political Studies  
+* Comparative political studies  
+* Rivista Italiana di Scienza Politica  
+* Publius  
+* Journal of Legislative Studies  
+* Analise Social  
+
+## LANGUAGE SKILLS
+* Proficient user in both written and spoken English (ESOL Certificate in Advanced English) and Portuguese.
+* School knowledge of Spanish, French and German.  
+
+## SPECIAL SKILLS
+* R, Rmarkdown 
+* Ms Office
+* SQL
+* SPARQL
+* Python
