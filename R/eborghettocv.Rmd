@@ -5,7 +5,7 @@ fontfamily: mathpazo
 output:
   pdf_document:
     latex_engine: pdflatex
-    template: C:\Users\Enrico Borghetto\Dropbox\politics_blog\data\svm-latex-cv.tex
+    template: C:\Users\Enrico Borghetto\Dropbox\blog\R\svm-latex-cv.tex
   word_document: default
   html_document: default
 fontsize: 11pt
@@ -98,23 +98,34 @@ Avenida de Berna, n. 26-C, 1069-061 Lisboa
     Internship at OWT, think tank based at the House of Commons in London. OWT undertakes research and education projects to promote global democracy. This internship was an integral part of my undergraduate thesis preparation.
 
 ## TEACHING EXPERIENCE
-* **29/8/2016-02/09/2016** The political and social consequences of the Great Recession in Southern Europe  
-    Master Course, Nova University of Lisbon, 10 ECTS
-    
-* **02/03/2016-25/05/2016** The Essentials of Data Analysis in R   
+* **21/02/2018-30/05/2018** Politics in challenging times. Populism, protests and the crisis of representation after the Great Recession, Master Course, Nova University of Lisbon, 10 ECTS   
+
+* **05/02/2018-08/02/2018** The Essentials of Quantitative Research. Data Analysis in R   
+    Lisbon Winter School in Research Skills and Methods, NOVA University of Lisbon, 2 ECTS
+
+* **30/01/2017-02/02/2017** The Essentials of Quantitative Research. Data Analysis in R   
+    Lisbon Winter School in Research Skills and Methods, NOVA University of Lisbon, 2 ECTS       
+
+* **29/8/2016-02/09/2016** The Essentials of Data Analysis in R   
     Lisbon Summer School, NOVA University of Lisbon
     
-* **09/09/2015-12/03/2015** The Essentials of Quantitative Research. Data Analysis in R   
-    Third Lisbon Winter School in Research Skills and Methods, NOVA University of Lisbon, 2 ECTS  
+* **02/03/2016-25/05/2016** The political and social consequences of the Great Recession in Southern Europe,
+    Master Course, Nova University of Lisbon, 10 ECTS
+    
+* **07/03/2016-10/03/2016** The Essentials of Quantitative Research. Data Analysis in R   
+    Lisbon Winter School in Research Skills and Methods, NOVA University of Lisbon, 2 ECTS  
+    
+* **09/03/2015-12/03/2015** The Essentials of Quantitative Research. Data Analysis in R   
+    Lisbon Winter School in Research Skills and Methods, NOVA University of Lisbon, 2 ECTS  
    
 * **10/02/2014-13/02/2014** The Essentials of Quantitative Research. Data Analysis in R   
-    Second Lisbon Winter School in Research Skills and Methods, NOVA University of Lisbon, 2 ECTS 
+    Lisbon Winter School in Research Skills and Methods, NOVA University of Lisbon, 2 ECTS 
 
 * **03/05/2013-08/05/2013** Introduction to Event History Analysis with STATA   
     Graduate School of the University of Milan, Milan, May 2013   
      
 * **13/02/2013-16/02/2013** Introduction to Event History Analysis   
-    First Lisbon Winter School in Research Skills and Methods, NOVA University of Lisbon, 2 ECTS
+    Lisbon Winter School in Research Skills and Methods, NOVA University of Lisbon, 2 ECTS
     
 * **2010-2012** Teaching assistant for the postgraduate course "Democratic Governance and Public Administration: The European Union" (Prof.Fabio Franchino)  
     University of Milan, Faculty of Political Science, Master in Economics and Political Science  
@@ -144,7 +155,7 @@ Avenida de Berna, n. 26-C, 1069-061 Lisboa
 
 *	with Federico Russo (2018) From agenda setters to agenda takers? The determinants of party issue attention in times of crisis. Party Politics 24, 65–77
 
-*	with Ivan Koprić, Eva Marín Hlynsdóttir, Jasmina Džinić (2018), Institutional Environments and Mayors’ Role Perceptions, In H. Heinelt et al. (eds.), Political Leaders and Changing Local Democracy, Palgrave Macmillan   
+*	with Ivan Koprić, Eva Marín Hlynsdóttir, Jasmina Džinić (2018), Institutional Environments and Mayors’ Role Perceptions, In H. Heinelt et al. (eds.), Political Leaders and Changing Local Democracy, Palgrave Macmillan pp.149-173
   
 *	with Francesco Visconti and Marco Michieli (2017) "Government Agenda Setting in Italian Coalitions, Testing the partisan hypothesis using Italian investiture speeches 1979-2014" Italian Journal of Public Policies (2): 193-220
 
@@ -206,6 +217,10 @@ Avenida de Berna, n. 26-C, 1069-061 Lisboa
 *	with Ana Belchior. The determinants of the executive weekly agenda in Portugal: party mandates vs media attention  
 
 ## CONFERENCE PAPERS (A SELECTION)
+* "Economic inequality and legislative agendas in Europe" 18-20 April 2018, Conference of the Portuguese Political Science Association, Braga   
+
+*	"Constituency characteristics, civil society links and topic selection by individual legislators: Evidence from Portugal" 10-14 April 2018, ECPR Joint Session, Nicosia   
+
 *	"The determinants of the executive weekly agenda in Portugal: party mandates vs media attention" 6th December, 2017, University of Texas, Austin       
 
 *	"The Five-Star Movement in Parliament: a Truly New Kind of Parliamentary Opposition?", 14-16 September 2017, Annual Conference of the Italian Political Science Association, Urbino  
