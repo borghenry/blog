@@ -36,15 +36,15 @@ selected = false
 projects = ["mayors"]
 
 # Links (optional).
-url_pdf = "/publications/05_mayors_role_perceptions.pdf"
-url_preprint = ""
+url_pdf = "https://www.palgrave.com/gp/book/9783319674094"
+url_preprint = "/publications/05_mayors_role_perceptions.pdf"
 url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "https://www.palgrave.com/gp/book/9783319674094"
+url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
