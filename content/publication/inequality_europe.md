@@ -6,5 +6,5 @@ abstract = "This article investigates the effects of economic inequality on legi
 authors = ["Derek Epp", "Enrico Borghetto"]
 abstract_short = ""
 url_pdf = "/working_paper/EuroInequality.pdf"
-url_slides = ""
+url_slides = "/presentation/Braga_Epp_Borghetto_2018.pdf"
 +++
