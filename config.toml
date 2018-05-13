@@ -231,6 +231,11 @@ defaultContentLanguageInSubdir = false
     icon = "researchgate"
     icon_pack = "ai"
     link = "https://www.researchgate.net/profile/Enrico_Borghetto"
+    
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "https://www.linkedin.com/in/enrico-borghetto-0a442b110/"
 
 
 # Navigation Links
@@ -248,29 +253,34 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
+  name = "Latest Publications"
   url = "#publications_selected"
   weight = 2
+  
+[[menu.main]]
+  name = "Publications"
+  url = "#publications"
+  weight = 3
 
 [[menu.main]]
   name = "Working papers"
   url = "#publications_working_papers"
-  weight = 3
+  weight = 4
 
 [[menu.main]]
   name = "Projects"
   url = "#projects"
-  weight = 4
+  weight = 5
 
 [[menu.main]]
   name = "Teaching"
   url = "#teaching"
-  weight = 5
+  weight = 6
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 7
 
 # Taxonomies.
 [taxonomies]
