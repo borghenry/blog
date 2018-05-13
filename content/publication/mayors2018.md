@@ -33,7 +33,7 @@ selected = false
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-# projects = ["example-external-project"]
+# projects = ["mayors"]
 
 # Links (optional).
 url_pdf = "/publications/05_mayors_role_perceptions.pdf"
@@ -44,7 +44,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://www.palgrave.com/gp/book/9783319674094"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
@@ -63,5 +63,3 @@ image = ""
 caption = ""
 
 +++
-
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
