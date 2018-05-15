@@ -19,4 +19,4 @@ I am a teaching instructor for the following courses in the semester 2017-2018:
 
 - {{% staticref "pdf/Syllabus - Politics in challenging times 2018.pdf" "newtab" %}}Politics in challenging times{{% /staticref %}}. Populism, protests and the crisis of representation after the Great Recession 
 - [Research Design](http://fcsh.unl.pt/escola-doutoral/lisbon-winter-school/edition-courses/copy3_of_course-2.-the-essentials-of-quantitative-research.-data-analysis-in-r). Lisbon Winter School in Research Skills and Methods
-- Data Analysis for Social Scientists in R. Lisbon Summer School
+- [Data Analysis for Social Scientists in R](http://fcsh.unl.pt/formacao-ao-longo-da-vida/escola-de-verao/cursos-2018/analise-de-dados-em-ciencias-sociais-com-r). Lisbon Summer School
