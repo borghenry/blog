@@ -25,7 +25,7 @@ df <- Sys.Date()
 Last updated: `r Sys.Date()`
 
 ## WORK ADDRESS
-Interdisciplinary Centre of Social Sciences – CICS.NOVA   
+Interdisciplinary Centre of Social Sciences - CICS.NOVA   
 NOVA University of Lisbon  
 Avenida de Berna, n. 26-C, 1069-061 Lisboa
 
@@ -66,9 +66,9 @@ Avenida de Berna, n. 26-C, 1069-061 Lisboa
     This project aims at increasing our understanding of democratic party government and the relationship between the public opinion and the agenda-setting process in Portugal.
     
 * **2010-PRESENT** Co-manager of the ILMA (Italian-Law Making Database)  
-    ILMA originated from an idea of a group of scholars affiliated with the Department of Social and Political Studies at the Università degli Studi di Milano, and it is one of the scientific products of the Center for the Observation of Legislatures (COoL). It is a relational database that combines information on Italian legislation, roll calls and political elites. It currently covers six Italian legislatures (1987-2008).
+    ILMA originated from an idea of a group of scholars affiliated with the Department of Social and Political Studies at the Universit� degli Studi di Milano, and it is one of the scientific products of the Center for the Observation of Legislatures (COoL). It is a relational database that combines information on Italian legislation, roll calls and political elites. It currently covers six Italian legislatures (1987-2008).
     
-* **2010-2012** Member of the research unit of the University of Milan in the project “Institutional agenda setting: Actors, time, information.” co-financed by the Italian Ministry for Research and Higher Education (PRIN 2009, Protocol 2009TPW4NL_002, Principal Investigator: prof. Marco Giuliani).  
+* **2010-2012** Member of the research unit of the University of Milan in the project -Institutional agenda setting: Actors, time, information.- co-financed by the Italian Ministry for Research and Higher Education (PRIN 2009, Protocol 2009TPW4NL_002, Principal Investigator: prof. Marco Giuliani).  
    
 * **2009-PRESENT** Researcher and one of the Principal Investigators for the project "Italian Policy Agendas"  
     This is a joint research project involving the Universities of Milan, Siena and Malta (http://italianpolicyagendas.weebly.com). It aims at exploring the evolution of issue attention in various institutions (media, political parties, parliament, government) and its impact on public policy outcomes using an agenda-setting perspective. It is part of a larger international research network: the "Comparative Agendas Project".
@@ -91,7 +91,7 @@ Avenida de Berna, n. 26-C, 1069-061 Lisboa
     Key areas of responsibility: data collection and maintenance of the database on national transposition of EU directives; review of the literature on EU Compliance; contribution to joint publications.
     
 * **Oct/Dec 2004** 	Research assistant for the project "Political representation and legislative process in the regions and the autonomous provinces in Italy" (Coordinator Prof. Salvatore Vassallo)  
-    Istituto Carlo Cattaneo and Università di Bologna, Bologna, Italy  
+    Istituto Carlo Cattaneo and Universit� di Bologna, Bologna, Italy  
     Key areas of responsibility: assistance in drafting the questionnaire; interviews with over 30 members of the Lombardia Regional Council.
     
 * **Nov 2002-Mar 2003**	One World Trust (OWT), London  
@@ -138,7 +138,7 @@ Avenida de Berna, n. 26-C, 1069-061 Lisboa
 ## GRANTS AWARDED  
 * Part of the research team located in Milan university awarded the PRIN funding in both 2007 (prot. scrwt4) and 2009 (prot. 2009TPW4NL_002). PRIN= Research Programs of National Relevance awarded by the Italian Ministry of Education and Research
 
-* Research Unit on European Governance (URGE) – 1-year research grant
+* Research Unit on European Governance (URGE) - 1-year research grant
 
 * PhD scholarship (2003-2007) by the Italian Ministry of Education and Research
 
@@ -147,49 +147,49 @@ Avenida de Berna, n. 26-C, 1069-061 Lisboa
 * 9-month Erasmus scholarship in 2000, University of Sussex, UK
 
 ## PUBLICATIONS  
-* with Marco Lisi (Forthcoming, 2018) "Productivity and re-selection in a party-based environment: evidence from the Portuguese case" Parliamentary Affairs   
+* with Marco Lisi (Forthcoming, 2018) "Productivity and re-selection in a party-based environment: evidence from the Portuguese case" Parliamentary Affairs  
 
-*	(Forthcoming, 2018) "Delegated decree authority in a parliamentary system. The exercise of legislative delegation in Italy (1987-2013)" Journal of legislative Studies  
+* (Forthcoming, 2018) "Delegated decree authority in a parliamentary system. The exercise of legislative delegation in Italy (1987-2013)" Journal of legislative Studies  
 
-*	(Forthcoming, 2018) "Anti-populism", in F.José Eduardo (Ed) Dicionário dos Antis. A Cultura Portuguesa em Negativo, Imprensa Nacional-Casa da Moeda  
+* (Forthcoming, 2018) "Anti-populism", in F.Jos� Eduardo (Ed) Dicion�rio dos Antis. A Cultura Portuguesa em Negativo, Imprensa Nacional-Casa da Moeda  
 
-*	with Federico Russo (2018) From agenda setters to agenda takers? The determinants of party issue attention in times of crisis. Party Politics 24, 65–77
+* with Federico Russo (2018) From agenda setters to agenda takers? The determinants of party issue attention in times of crisis. Party Politics 24, 65-77  
 
-*	with Ivan Koprić, Eva Marín Hlynsdóttir, Jasmina Džinić (2018), Institutional Environments and Mayors’ Role Perceptions, In H. Heinelt et al. (eds.), Political Leaders and Changing Local Democracy, Palgrave Macmillan pp.149-173
-  
-*	with Francesco Visconti and Marco Michieli (2017) "Government Agenda Setting in Italian Coalitions, Testing the partisan hypothesis using Italian investiture speeches 1979-2014" Italian Journal of Public Policies (2): 193-220
+* with Ivan Kopric, Eva Mar�n Hlynsd�ttir, Jasmina Dzinic (2018), Institutional Environments and Mayors' Role Perceptions, In H. Heinelt et al. (eds.), Political Leaders and Changing Local Democracy, Palgrave Macmillan pp.149-173  
 
-*  , (2016), Book review “Crise Económica, Políticas de Austeridade e Representação Política, Lisboa, Assembleia da República – Divisão de edições, 2015”. Análise Social, 219, li (2.º), pp. 462-466.   
+* with Francesco Visconti and Marco Michieli (2017) "Government Agenda Setting in Italian Coalitions, Testing the partisan hypothesis using Italian investiture speeches 1979-2014" Italian Journal of Public Policies (2): 193-220  
 
-* , (2015), "Questioning the government in  time of crisis. An analysis of Question Time in Spain", In J. Preunkert and G. Vobruba (Eds) Aftermath. Beyond the Crisis of the European Currency, Lisbon: Colibri, 91-116  
+* , (2016), Book review "Crise Econ�mica, Pol�ticas de Austeridade e Representa��o Pol�tica, Lisboa, Assembleia da Rep�blica - Divis�o de edi��es, 2015". An�lise Social, 219, li (2.�), pp. 462-466.  
 
-* , (2015), "Challenging Italian Centralism through the Vertical Shift of Competences to the Subnational and Supranational Levels." Contemporary Italian Politics 7 (1): 58–75.  
+* , (2015), "Questioning the government in time of crisis. An analysis of Question Time in Spain", In J. Preunkert and G. Vobruba (Eds) Aftermath. Beyond the Crisis of the European Currency, Lisbon: Colibri, 91-116  
 
-* with Marcello Carammia (2015) "The Influence of Coalition Parties on Executive Agendas in Italy (1983-2008)." In The Challenge of Coalition Government: The Italian Case, eds. Nicolò Conti and Francesco Marangoni. Abingdon: Routledge, 36–57.
+* , (2015), "Challenging Italian Centralism through the Vertical Shift of Competences to the Subnational and Supranational Levels." Contemporary Italian Politics 7 (1): 58-75.  
 
-* with Francesco Visconti (2015) "Governing by Revising. A Study on Post-Enactment Policy Change in Italy." In The Challenge of Coalition Government: The Italian Case, eds. Nicolò Conti and Francesco Marangoni. Abingdon: Routledge, 106–27.
+* with Marcello Carammia (2015) "The Influence of Coalition Parties on Executive Agendas in Italy (1983-2008)." In The Challenge of Coalition Government: The Italian Case, eds. Nicol� Conti and Francesco Marangoni. Abingdon: Routledge, 36-57.  
 
-* , (2014) Legislative processes as sequences: exploring the temporal dimension of law-making by means of sequence analysis, International Review of Administrative Sciences. 80:3, pp.553-76
+* with Francesco Visconti (2015) "Governing by Revising. A Study on Post-Enactment Policy Change in Italy." In The Challenge of Coalition Government: The Italian Case, eds. Nicol� Conti and Francesco Marangoni. Abingdon: Routledge, 106-27.  
 
-* with Lars Mader (2014) EU Law Revisions and Legislative Drift, European Union Politics.15:2, pp.171-191
+* , (2014) Legislative processes as sequences: exploring the temporal dimension of law-making by means of sequence analysis, International Review of Administrative Sciences. 80:3, pp.553-76  
 
-* with Marcello Carammia and Francesco Zucchini (2014). The impact of party priorities on Italian law-making from The First to the Second Republic,  In C.Green Pedersen and S.Walgrave (Eds.) Agenda Setting, Policies, and Political Systems, Chicago: Chicago University Press, pp.164-182
+* with Lars Mader (2014) EU Law Revisions and Legislative Drift, European Union Politics.15:2, pp.171-191  
+
+* with Marcello Carammia and Francesco Zucchini (2014). The impact of party priorities on Italian law-making from The First to the Second Republic, In C.Green Pedersen and S.Walgrave (Eds.) Agenda Setting, Policies, and Political Systems, Chicago: Chicago University Press, pp.164-182  
 
 * , (2013) Keeping the pace with Europe: Non-compliance with the transposition deadlines of EU directives in the Italian case, Novi Ligure: Epoke edizioni, ISBN: 978-88-98014-13-2  
 
-* with Luigi Curini, Marco Giuliani, Alessandro Pellegata and Francesco Zucchini (2012) Italian Law-Making Archive (ILMA): A new tool for the analysis of the Italian legislative process, Rivista Italiana di Scienza Politica, 3 pp. 481-502
+* with Luigi Curini, Marco Giuliani, Alessandro Pellegata and Francesco Zucchini (2012) Italian Law-Making Archive (ILMA): A new tool for the analysis of the Italian legislative process, Rivista Italiana di Scienza Politica, 3 pp. 481-502  
 
-* with Marco Giuliani (2012) A Long Way to Tipperary: Time in the Italian Legislative Process 1987-2008, South European Society and Politics , 17:1 pp.23-44
+* with Marco Giuliani (2012) A Long Way to Tipperary: Time in the Italian Legislative Process 1987-2008, South European Society and Politics , 17:1 pp.23-44  
 
-* with Marco Giuliani and Francesco Zucchini (2011) "Leading governments and unwilling legislators. The European Union and the Italian Law making (1987-2006)", in S. Brouard, O. Costa and T.König (Eds), The Europeanization of Domestic Legislatures, New York:Springer, pp.109-130 
+* with Marco Giuliani and Francesco Zucchini (2011) "Leading governments and unwilling legislators. The European Union and the Italian Law making (1987-2006)", in S. Brouard, O. Costa and T.K�nig (Eds), The Europeanization of Domestic Legislatures, New York:Springer, pp.109-130  
 
-* with Fabio Franchino (2010) "The Role of Subnational Authorities in the Implementation of EU Directives", Journal of European Public Policy, 17:6, pp. 759 - 780
+* with Fabio Franchino (2010) "The Role of Subnational Authorities in the Implementation of EU Directives", Journal of European Public Policy, 17:6, pp. 759 - 780  
 
-* with Marcello Carammia (2010) "L'analisi comparata delle agenda politiche: il Comparative Agendas Project", Rivista Italiana di Scienza Politica, n.2, pp.301-315
+* with Marcello Carammia (2010) "L'analisi comparata delle agenda politiche: il Comparative Agendas Project", Rivista Italiana di Scienza Politica, n.2, pp.301-315  
 
-* with Marco Giuliani and Francesco Zucchini (2009) "Quanta Bruxelles c'è a Roma? L'europeizzazione della produzione normativa italiana.", Rivista italiana di Politiche Pubbliche, n.1, pp.135-162
+* with Marco Giuliani and Francesco Zucchini (2009) "Quanta Bruxelles c'� a Roma? L'europeizzazione della produzione normativa italiana.", Rivista italiana di Politiche Pubbliche, n.1, pp.135-162  
 
-*	with Fabio Franchino and Daniela Giannetti (2006) "Complying with the Transposition Deadlines of EU Directives: Evidence from Italy", Rivista Italiana di Politiche Pubbliche, n.5, pp. 7-38.
+* with Fabio Franchino and Daniela Giannetti (2006) "Complying with the Transposition Deadlines of EU Directives: Evidence from Italy", Rivista Italiana di Politiche Pubbliche, n.5, pp. 7-38.  
 
 ## OTHER RESEARCH OUTPUTS  
 
@@ -233,20 +233,20 @@ Avenida de Berna, n. 26-C, 1069-061 Lisboa
 
 * "Delegated decree authority in a parliamentary system. The exercise of legislative delegation in Italy" (1987-2013), 15-17 September 2016, SISP Annual Conference, University of Milan     
    
-*  "Parliamentary Questions and Individual Representation in a Party-Dominated Environment: Evidence from Portugal", July 23-28, 2016, IPSA World Congress - International Political Science Association, Poznań, Poland   
+*  "Parliamentary Questions and Individual Representation in a Party-Dominated Environment: Evidence from Portugal", July 23-28, 2016, IPSA World Congress - International Political Science Association, Poznan, Poland   
      
 * "Parliamentary Questions and Individual Representation in a Party-Dominated Environment: Evidence from Portugal", June 30 to July 2 2016, ECPR Standing group on parliaments, University of Munich   
     
-* "Between contraction of agendas and issue expansion: The impact of the Euro crisis on parties’ issue attention", 27-29 June 2016, Annual Conference Comparative Agendas Project, University of Geneva.   
+* "Between contraction of agendas and issue expansion: The impact of the Euro crisis on partiesan issue attention", 27-29 June 2016, Annual Conference Comparative Agendas Project, University of Geneva.   
    
 * "The determinants of party issue attention in time of crisis: from agenda setters to agenda takers?", 
 10-12 March, 2016, Portuguese Association of Political Science, Nova University of Lisbon.  
 
 * "Challenging the government in parliament: an analysis of question time in time of austerity", 
-Workshop “O Lusitanismo Italiano" 17-18 December, 2015, University of Bologna.  
+Workshop - O Lusitanismo Italiano" 17-18 December, 2015, University of Bologna.  
    
 * "Challenging the government in parliament: an analysis of question time in time of austerity", 
-Workshop “Party Competition and Political Representation in Crisis: A Comparative Perspective" 24-25 September, 2015, at the European University Institute, Florence.       
+Workshop - Party Competition and Political Representation in Crisis: A Comparative Perspective" 24-25 September, 2015, at the European University Institute, Florence.       
    
 * "The transmission of policy agendas. The effect of party competition on the gap between electoral priorities and policy outputs", 22-24 June 2015, Annual Conference Comparative Agendas Project, University of Lisbon  
   
@@ -256,7 +256,7 @@ Workshop “Party Competition and Political Representation in Crisis: A Comparat
 
 * "Challenging Italian centralism: the vertical shift of competences to the subnational and supranational level". 11-13 September 2014, SISP Annual Conference, University of Perugia    
 
-* "Exploring Bill Winnowing in the Italian Chamber of Deputies (1996-2012)",  11 – 12 July 2014, Workshop "Parliamentary Scrutiny of EU Politics" Heidelberg University   
+* "Exploring Bill Winnowing in the Italian Chamber of Deputies (1996-2012)",  11-12 July 2014, Workshop "Parliamentary Scrutiny of EU Politics" Heidelberg University   
   
 * "Agenda-setting in times of crisis", 24-26 July 2014, Workshop "Changes to political representation in Southern Europe in times of crisis", University of Nottingham, UK  
    
