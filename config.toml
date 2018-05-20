@@ -143,7 +143,9 @@ defaultContentLanguageInSubdir = false
   #   For more info on the highlighting options, see:
   #   https://sourcethemes.com/academic/post/writing-markdown-latex/#highlighting-options
   highlight = true
-  highlight_languages = []
+  highlight_languages = ["r", "yaml"]
+  highlight_style = "atom-one-light"
+  highlight_version = "9.9.0"
   # highlight_style = "github"
 
   # Enable native social sharing buttons?
@@ -251,21 +253,34 @@ defaultContentLanguageInSubdir = false
   name = "Home"
   url = "#about"
   weight = 1
-
-[[menu.main]]
-  name = "Latest Publications"
-  url = "#publications_selected"
-  weight = 2
   
 [[menu.main]]
-  name = "Publications"
-  url = "#publications"
+  name = "Posts"
+  url = "#posts"
+  weight = 2
+
+[[menu.main]]
+  name = "Research"
+  url = "Research"
   weight = 3
 
 [[menu.main]]
-  name = "Working papers"
-  url = "#publications_working_papers"
-  weight = 4
+    parent = "Research"
+    name = "Recent publications"
+    url = "#publications_selected"
+    weight = 1
+
+[[menu.main]]
+    parent = "Research"
+    name = "Publications"
+    url = "#publications"
+    weight = 2
+
+[[menu.main]]
+    parent = "Research"
+    name = "Working papers"
+    url = "#publications_working_papers"
+    weight = 3
 
 [[menu.main]]
   name = "Projects"
