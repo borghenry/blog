@@ -30,22 +30,22 @@ NOVA University of Lisbon
 Avenida de Berna, n. 26-C, 1069-061 Lisboa
 
 ## ACADEMIC APPOINTMENTS
-* **2015-PRESENT**	FCT investigator at CICS.NOVA, FCSH  
+* **03/2015-PRESENT**	FCT investigator, public contract at the Faculty of Social and Human Sciences  (FCSH) funded by the Fundação para a Ciência e a Tecnologia  IF/00382/2014) at CICS.NOVA,  FCSH 
     University NOVA of Lisbon, Portugal  
     
-* **2013-2015**	Postdoctoral Researcher at CESNOVA, FCSH, with a project entitled "The policy agenda at the time of crisis in Europe's periphery" (Grant funded by the Fundação para a Ciência e a Tecnologia, SFRH/BPD/89968/2012)  
+* **01/2013-02/2015**	Postdoctoral Researcher at CESNOVA, FCSH, with a project entitled "The policy agenda at the time of crisis in Europe's periphery" (Bolsas de Pós-Doutoramento (BPD) funded by the Fundação para a Ciência e a Tecnologia, SFRH/BPD/89968/2012)  
     University NOVA of Lisbon, Portugal
     
-* **2008-2012**	Postdoctoral Researcher, Department of Social and Political Studies with a project entitled "The europeanisation of executive-legislative relations: national parliaments and Community legislation"  
+* **11/2008-11/2012**	Postdoctoral Researcher, Department of Social and Political Studies with a project entitled "The europeanisation of executive-legislative relations: national parliaments and Community legislation"  
     University of Milan, Milano, Italy
 
 
 ## EDUCATION
-* **2003-2007**	Ph.D. in Political Studies  
+* **09/2003-07/2007**	Ph.D. in Political Studies  
     Graduate School in Social, Economic and Political Sciences of the University of Milan  
     Dissertation: 'Non-compliance with the transposition deadlines of EU directives: the Italian case. Explaining transposition of EU directives into Italian legislation' (written in English and discussed on 17/07/2007) Supervisor: Prof. Marco Giuliani, Examination Committee Chair: Prof. Maurizio Ferrera
     
-* **1998-2003**	University Degree in International and Diplomatic Sciences (110/110 magna cum laude)  
+* **09/1998-07/2003**	University Degree in International and Diplomatic Sciences (110/110 magna cum laude)  
     University of Bologna (Forlì), Faculty of International and Diplomatic Sciences   
     Dissertation: "The accountability of international organisations: the Principal -Agent model applied to the WTO and the IMF". Supervisor: Prof. Salvatore Vassallo
     
@@ -53,19 +53,22 @@ Avenida de Berna, n. 26-C, 1069-061 Lisboa
     Liceo Linguistico sperimentale A.Canova, Treviso
 
 ## RESEARCH EXPERIENCE
-* **2015-PRESENT** Principal investigator "Portuguese Parliament: Agenda-setting and Law-making" Project financed by the Fundação para a Ciência e a Tecnologia (IF/00382/2014) URL: https://www.comparativeagendas.net/portugal    
+* **2015-PRESENT** Principal investigator "Portuguese Parliament: Agenda-setting and Law-making" Exploratory Project financed by the Fundação para a Ciência e a Tecnologia (IF/00382/2014) URL: https://www.comparativeagendas.net/portugal    
 
-* **2015-PRESENT** Researcher in the project "Democracy in times of crisis: Power and Discourse in a three-level game", Project financed by the Fundação para a Ciência e a Tecnologia (PTDC/IVC-CPO/2247/2014) URL: https://goo.gl/ExHizi
+* **2016-PRESENT** Researcher in the project "Democracy in times of crisis: Power and Discourse in a three-level game", Project financed by the Fundação para a Ciência e a Tecnologia (PTDC/IVC-CPO/2247/2014) URL: https://goo.gl/ExHizi
 
-* **2015-PRESENT** Researcher in the project "Crisis, Political Representation and Democratic Renewal: The Portuguese case in the Southern European context", Project financed by the Fundação para a Ciência e a Tecnologia (PTDC/IVC-CPO/3098/2014) URL: https://goo.gl/HMBMaK
+* **2016-PRESENT** Researcher in the project "Crisis, Political Representation and Democratic Renewal: The Portuguese case in the Southern European context", Project financed by the Fundação para a Ciência e a Tecnologia (PTDC/IVC-CPO/3098/2014) URL: https://goo.gl/HMBMaK
 
-* **2014-PRESENT** Principal investigator in the Portuguese team participating in the European project "Political Leaders in European Cities" (Coordinated by the University of Florence) 
+* **Sept 2017/Jan 2018** Visiting Researcher, Department of Government  
+    University of Texas, Austin, USA   
+
+* **2014-2018** Principal investigator in the Portuguese team participating in the European project "Political Leaders in European Cities" (Coordinated by the University of Florence) 
     This project deals with the role of Mayors and the transformation of political representation and careers at the local level.  
     
 * **2013-2015** Associate researcher for the project "Public preferences and Policy decision-making: a comparative analysis" Project financed by the Fundação para a Ciência e a Tecnologia (PTDC/IVC-CPO/3921/2012)  
     This project aims at increasing our understanding of democratic party government and the relationship between the public opinion and the agenda-setting process in Portugal.
     
-* **2010-PRESENT** Co-manager of the ILMA (Italian-Law Making Database)  
+* **2010-2012** Co-manager of the ILMA (Italian-Law Making Database)  
     ILMA originated from an idea of a group of scholars affiliated with the Department of Social and Political Studies at the Universit? degli Studi di Milano, and it is one of the scientific products of the Center for the Observation of Legislatures (COoL). It is a relational database that combines information on Italian legislation, roll calls and political elites. It currently covers six Italian legislatures (1987-2008).
     
 * **2010-2012** Member of the research unit of the University of Milan in the project -Institutional agenda setting: Actors, time, information.- co-financed by the Italian Ministry for Research and Higher Education (PRIN 2009, Protocol 2009TPW4NL_002, Principal Investigator: prof. Marco Giuliani).  
@@ -98,34 +101,37 @@ Avenida de Berna, n. 26-C, 1069-061 Lisboa
     Internship at OWT, think tank based at the House of Commons in London. OWT undertakes research and education projects to promote global democracy. This internship was an integral part of my undergraduate thesis preparation.
 
 ## TEACHING EXPERIENCE
-* **21/02/2018-30/05/2018** Politics in challenging times. Populism, protests and the crisis of representation after the Great Recession, Master Course, Nova University of Lisbon, 10 ECTS   
+* **27/8/2016-05/09/2016** The Essentials of Data Analysis in R (25 hours)
+    Lisbon Summer School, NOVA University of Lisbon
 
-* **05/02/2018-08/02/2018** The Essentials of Quantitative Research. Data Analysis in R   
-    Lisbon Winter School in Research Skills and Methods, NOVA University of Lisbon, 2 ECTS
+* **21/02/2018-30/05/2018** Politics in challenging times. Populism, protests and the crisis of representation after the Great Recession, Master Course, Nova University of Lisbon, 10 ECTS (44 hours)
+
+* **05/02/2018-08/02/2018** Research design  
+    Lisbon Winter School in Research Skills and Methods, NOVA University of Lisbon, 2 ECTS (12 hours)
 
 * **30/01/2017-02/02/2017** The Essentials of Quantitative Research. Data Analysis in R   
-    Lisbon Winter School in Research Skills and Methods, NOVA University of Lisbon, 2 ECTS       
+    Lisbon Winter School in Research Skills and Methods, NOVA University of Lisbon, 2 ECTS (12 hours)    
 
 * **29/8/2016-02/09/2016** The Essentials of Data Analysis in R   
-    Lisbon Summer School, NOVA University of Lisbon
+    Lisbon Summer School, NOVA University of Lisbon (15 hours)
     
 * **02/03/2016-25/05/2016** The political and social consequences of the Great Recession in Southern Europe,
-    Master Course, Nova University of Lisbon, 10 ECTS
+    Master Course, Nova University of Lisbon, 10 ECTS (44 hours)
     
 * **07/03/2016-10/03/2016** The Essentials of Quantitative Research. Data Analysis in R   
-    Lisbon Winter School in Research Skills and Methods, NOVA University of Lisbon, 2 ECTS  
+    Lisbon Winter School in Research Skills and Methods, NOVA University of Lisbon, 2 ECTS (12 hours)  
     
 * **09/03/2015-12/03/2015** The Essentials of Quantitative Research. Data Analysis in R   
-    Lisbon Winter School in Research Skills and Methods, NOVA University of Lisbon, 2 ECTS  
+    Lisbon Winter School in Research Skills and Methods, NOVA University of Lisbon, 2 ECTS  (12 hours)
    
 * **10/02/2014-13/02/2014** The Essentials of Quantitative Research. Data Analysis in R   
-    Lisbon Winter School in Research Skills and Methods, NOVA University of Lisbon, 2 ECTS 
+    Lisbon Winter School in Research Skills and Methods, NOVA University of Lisbon, 2 ECTS  (12 hours)
 
 * **03/05/2013-08/05/2013** Introduction to Event History Analysis with STATA   
-    Graduate School of the University of Milan, Milan, May 2013   
+    Graduate School of the University of Milan, Milan, May 2013 (12 hours)
      
 * **13/02/2013-16/02/2013** Introduction to Event History Analysis   
-    Lisbon Winter School in Research Skills and Methods, NOVA University of Lisbon, 2 ECTS
+    Lisbon Winter School in Research Skills and Methods, NOVA University of Lisbon, 2 ECTS (12 hours)
     
 * **2010-2012** Teaching assistant for the postgraduate course "Democratic Governance and Public Administration: The European Union" (Prof.Fabio Franchino)  
     University of Milan, Faculty of Political Science, Master in Economics and Political Science  
@@ -146,7 +152,12 @@ Avenida de Berna, n. 26-C, 1069-061 Lisboa
 
 * 9-month Erasmus scholarship in 2000, University of Sussex, UK
 
-## PUBLICATIONS  
+## PUBLICATIONS    
+    
+*	with Ana Belchior (Forthcoming). "Party manifestos, opposition and media as determinants of the cabinet agenda", Political Studies    
+
+* with Marcello Carammia and Federico Russo (2018) "Policy Agendas in Italy: introduction to the special issue" Italian Political Science Review / Rivista Italiana di Scienza Politica, 48(3)    
+	
 * with Marcello Carammia and Shaun Bevan (2018) "Changing the transmission belt: the programme-to-policy link in Italy between the First and Second Republic" Italian Political Science Review / Rivista Italiana di Scienza Politica, 48(3)  
 
 * with Marco Lisi (2018) "Productivity and re-selection in a party-based environment: evidence from the Portuguese case" Parliamentary Affairs, 71(4):868-887   
@@ -202,21 +213,32 @@ Avenida de Berna, n. 26-C, 1069-061 Lisboa
 ## WORK IN PROGRESS
 *	with Marco Lisi. Populism, blame shifting and the crisis: communication strategies in Portuguese political parties [under review]     
 
-* with Derek Epp. Economic inequality and legislative agendas in Europe [under review]  
-
-*	with Ana Belchior. Party manifestos, opposition and media as determinants of the cabinet agenda [under review]   
+* with Derek Epp. Economic inequality and legislative agendas in Europe [under review]   
 
 *	with Alessandro Pellegata. Exploring bill winnowing in the Italian Chamber of Deputies. Working paper 
 
 *	with André Freire and José Santana Lopes. Constituency Characteristics, Expertise, Civil Society Links and Parliamentary Questions: Evidence from Portugal. Working paper  
 
 *	with Marco Lisi. Parliamentary questions and individual representation in a party-dominated environment: evidence from Portugal. Working paper  
-*	with Ana Belchior. The transmission of policy agendas. The effect of party competition on the gap between electoral priorities and policy outputs. Working paper  
+   
+*	with Ana Belchior. The transmission of policy agendas. The effect of party competition on the gap between electoral priorities and policy outputs. Working paper   
 
-*	with Elisabetta de Giorgi. The Five-Star Movement in Parliament: a Truly New Kind of Parliamentary Opposition?
+*	with Elisabetta de Giorgi. The Five-Star Movement in Parliament: a Truly New Kind of Parliamentary Opposition?. Working paper   
 
+* The issue strategies of niche parties between elections: an analysis of question time in six countries. Working paper   
+   
+* with Emmanouil Tsatsanis, José Ramón Montero, André Freire. What kind of democrats? Ideological and generational gaps in forms of support for democracy in Southern Europe in the aftermath of the economic crisis. Working paper  
+   
+* with Julie Sevenans, Emiliano Grossman. Seeking information or pressing for action: analysing the function of parliamentary questions in a comparative perspective. Working paper   
 
-## CONFERENCE PAPERS (A SELECTION)
+   
+## CONFERENCE PAPERS (A SELECTION)  
+* "The issue strategies of niche parties between elections: an analysis of question time in six countries."" ECPR General Conference, Hamburg, 2018.    
+
+* "What kind of democrats? Ideological and generational gaps in forms of support for democracy in Southern Europe in the aftermath of the economic crisis". ECPR General Conference, Hamburg, 2018.    
+
+* Enrico Borghetto, Julie Sevenans, Emiliano Grossman. Seeking information or pressing for action: analysing the function of parliamentary questions in a comparative perspective." Comparative Agendas Project, Amsterdam, 2018.    
+
 * "Economic inequality and legislative agendas in Europe" 18-20 April 2018, Conference of the Portuguese Political Science Association, Braga   
 
 *	"Constituency characteristics, civil society links and topic selection by individual legislators: Evidence from Portugal" 10-14 April 2018, ECPR Joint Session, Nicosia   
@@ -318,7 +340,11 @@ Tools for text workshop, University of Washington, Seattle, US
 
 ## OTHER PROFESSIONAL ACTIVITIES
 
-### Academic service 
+### Academic service  
+* Coordinator for the working group "Citizenship, Work and Technology - Participação Política, Ativismo e Liderança" inside of CICS.NOVA.   
+
+* Member of the Italian Political Science Association (since 2008) and the Portuguese Political Science Association (since 2013).    
+
 *	Co-chair for the 8th annual International Conference of the Comparative Agendas Project, Nova University of Lisbon/ISCTE, 22-24 June 2015. http://www.comparativeagendas.net/pages/2015-conference-in-lisbon-portugal  
 
 * Organizer for the Pedro Hispano Winter School in Research Skills and Methods 2014 and 2015, Lisboa  
