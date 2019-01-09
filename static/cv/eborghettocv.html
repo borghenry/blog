@@ -282,6 +282,9 @@ img {
 button.code-folding-btn:focus {
   outline: none;
 }
+summary {
+  display: list-item;
+}
 </style>
 
 
@@ -289,14 +292,74 @@ button.code-folding-btn:focus {
 <div class="container-fluid main-container">
 
 <!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
 <script>
 $(document).ready(function () {
   window.buildTabsets("TOC");
 });
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
 </script>
 
 <!-- code folding -->
-
 
 
 
@@ -312,7 +375,7 @@ $(document).ready(function () {
 </div>
 
 
-<p>Last updated: 2018-11-15</p>
+<p>Last updated: 2019-01-09</p>
 <div id="work-address" class="section level2">
 <h2>WORK ADDRESS</h2>
 <p>Interdisciplinary Centre of Social Sciences - CICS.NOVA<br />
@@ -420,6 +483,7 @@ Key areas of responsibility: preparing and grading exams, supervising students, 
 <h2>PUBLICATIONS</h2>
 <ul>
 <li><p>with Ana Belchior (Forthcoming). “Party manifestos, opposition and media as determinants of the cabinet agenda”, Political Studies</p></li>
+<li><p>with Marco Lisi (Forthcoming). “Populism, blame shifting and the crisis: discourse strategies in Portuguese political parties”, South European Society and Politics</p></li>
 <li><p>with Marcello Carammia and Federico Russo (2018) “Policy Agendas in Italy: introduction to the special issue” Italian Political Science Review / Rivista Italiana di Scienza Politica, 48(3)</p></li>
 <li><p>with Marcello Carammia and Shaun Bevan (2018) “Changing the transmission belt: the programme-to-policy link in Italy between the First and Second Republic” Italian Political Science Review / Rivista Italiana di Scienza Politica, 48(3)</p></li>
 <li><p>with Marco Lisi (2018) “Productivity and re-selection in a party-based environment: evidence from the Portuguese case” Parliamentary Affairs, 71(4):868-887</p></li>
@@ -456,7 +520,6 @@ Key areas of responsibility: preparing and grading exams, supervising students, 
 <div id="work-in-progress" class="section level2">
 <h2>WORK IN PROGRESS</h2>
 <ul>
-<li><p>with Marco Lisi. Populism, blame shifting and the crisis: communication strategies in Portuguese political parties [under review]</p></li>
 <li><p>with Derek Epp. Economic inequality and legislative agendas in Europe [under review]</p></li>
 <li><p>with Alessandro Pellegata. Exploring bill winnowing in the Italian Chamber of Deputies. Working paper</p></li>
 <li><p>with André Freire and José Santana Lopes. Constituency Characteristics, Expertise, Civil Society Links and Parliamentary Questions: Evidence from Portugal. Working paper</p></li>
