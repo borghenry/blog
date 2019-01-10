@@ -6,7 +6,7 @@ rmarkdown::render(here('R', 'eborghettocv.Rmd'),
                   output_dir = here("static", "cv"), 
                   encoding = "UTF-8")
 
- rmarkdown::render(here('R', 'eborghettocv.Rmd'), 
+rmarkdown::render(here('R', 'eborghettocv.Rmd'), 
                   output_format = "pdf_document",
                   output_dir = here("static", "cv"), 
                   encoding = "UTF-8")
