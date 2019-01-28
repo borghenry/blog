@@ -33,6 +33,6 @@ weight = 5
 
 I am currently a research fellow ([Investigador FCT](https://www.fct.pt/apoios/contratacaodoutorados/investigador-fct/)) at the Interdisciplinary Centre of Social Sciences – [CICS.NOVA](http://www.cics.nova.fcsh.unl.pt/), Nova University of Lisbon.
 
-I am one of the founders and main investigators for the [Italian Policy Agendas Project](http://www.comparativeagendas.net/italy) and member of [Portuguese Policy Agendas Project](http://www.comparativeagendas.net/portugal). I participated in the setting up of the Italian Law Making Archive ([ILMA](http://159.149.130.120/ilma/sito/)).
+I am one of the founders and main investigators for the [Italian Policy Agendas Project](http://www.comparativeagendas.net/italy) and the [Portuguese Policy Agendas Project](http://www.comparativeagendas.net/portugal). I participated in the setting up of the Italian Law Making Archive ([ILMA](http://159.149.130.120/ilma/sito/)).
 
 Complete CV [html](/cv/eborghettocv.html), [pdf](/cv/eborghettocv.pdf)
