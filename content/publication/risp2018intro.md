@@ -1,6 +1,6 @@
 +++
 title = "Policy agendas in Italy: introduction to the special issue"
-date = "2018-12-25"
+date = "2018-11-31"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Enrico Borghetto", "Marcello Carammia", "Federico Russo"]
