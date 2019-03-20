@@ -4,10 +4,11 @@ author: ''
 date: '2019-03-19'
 slug: three-chapters-in-the-new-comparative-policy-agendas-book
 categories: []
-tags:
+tags: []
 header:
   caption: ''
   image: ''
+  preview: yes
 ---
 This [Oxford University Press Book](https://global.oup.com/academic/product/comparative-policy-agendas-9780198835332?cc=fr&lang=en&) summarizes recent advances in the work on agenda-setting in a comparative perspective. 
 
