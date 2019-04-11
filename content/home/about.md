@@ -31,7 +31,7 @@ weight = 5
 
 # Biography
 
-I am currently a research fellow ([Investigador FCT](https://www.fct.pt/apoios/contratacaodoutorados/investigador-fct/)) at the Interdisciplinary Centre of Social Sciences – [CICS.NOVA](http://www.cics.nova.fcsh.unl.pt/) and the Portuguese Institute of International Relations - [IPRI](http://www.ipri.pt/index.php/en/), Faculty of Social and Human Sciences - [FCSH](http://fcsh.unl.pt/) Nova University of Lisbon.   
+I am currently a research fellow ([Investigador FCT](https://www.fct.pt/apoios/contratacaodoutorados/investigador-fct/)) at the Interdisciplinary Centre of Social Sciences ([CICS.NOVA](http://www.cics.nova.fcsh.unl.pt/)) and the Portuguese Institute of International Relations ([IPRI](http://www.ipri.pt/index.php/en/)), Faculty of Social and Human Sciences ([FCSH](http://fcsh.unl.pt/)), Nova University of Lisbon.   
 
 I am one of the founders and main investigators for the [Italian Policy Agendas Project](http://www.comparativeagendas.net/italy) and the [Portuguese Policy Agendas Project](http://www.comparativeagendas.net/portugal).  
 
