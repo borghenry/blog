@@ -3,9 +3,13 @@ title: "CV"
 author: "Enrico Borghetto"
 fontfamily: mathpazo
 output:
-  html_document: default
-  word_document: default
+  html_document:
+    toc: true
+    theme: united
+  word_document:
+    toc: true
   pdf_document:
+    toc: true
     latex_engine: pdflatex
     template: C:\Users\Enrico Borghetto\Dropbox\blog\R\svm-latex-cv.tex
 fontsize: 11pt
@@ -30,7 +34,7 @@ NOVA University of Lisbon
 Avenida de Berna, n. 26-C, 1069-061 Lisboa
 
 ## ACADEMIC APPOINTMENTS
-* **03/2015-PRESENT**	FCT investigator, public contract at the Faculty of Social and Human Sciences  (FCSH) funded by the Fundação para a Ciência e a Tecnologia  IF/00382/2014) at CICS.NOVA,  FCSH 
+* **03/2015-PRESENT**	FCT investigator, public contract at the Faculty of Social and Human Sciences (FCSH) funded by the Fundação para a Ciência e a Tecnologia  IF/00382/2014) at CICS.NOVA,  FCSH 
     University NOVA of Lisbon, Portugal  
     
 * **01/2013-02/2015**	Postdoctoral Researcher at CESNOVA, FCSH, with a project entitled "The policy agenda at the time of crisis in Europe's periphery" (Bolsas de Pós-Doutoramento (BPD) funded by the Fundação para a Ciência e a Tecnologia, SFRH/BPD/89968/2012)  
@@ -53,98 +57,112 @@ Avenida de Berna, n. 26-C, 1069-061 Lisboa
     Liceo Linguistico sperimentale A.Canova, Treviso
 
 ## RESEARCH EXPERIENCE
-* **2015-PRESENT** Principal investigator "Portuguese Parliament: Agenda-setting and Law-making" Exploratory Project financed by the Fundação para a Ciência e a Tecnologia (IF/00382/2014) URL: https://www.comparativeagendas.net/portugal    
 
-* **2016-PRESENT** Researcher in the project "Democracy in times of crisis: Power and Discourse in a three-level game", Project financed by the Fundação para a Ciência e a Tecnologia (PTDC/IVC-CPO/2247/2014) URL: https://goo.gl/ExHizi
+### CURRENT PROJECTS
+* **2015-PRESENT** Principal investigator "Portuguese Parliament: Agenda-setting and Law-making" Exploratory Project financed by the Fundação para a Ciência e a Tecnologia (IF/00382/2014)     
 
-* **2016-PRESENT** Researcher in the project "Crisis, Political Representation and Democratic Renewal: The Portuguese case in the Southern European context", Project financed by the Fundação para a Ciência e a Tecnologia (PTDC/IVC-CPO/3098/2014) URL: https://goo.gl/HMBMaK
+* **2015-PRESENT** One of the Principal investigators for the Portuguese Policy Agendas Project. This is a joint research project involving ISCTE and the FCSH https://www.comparativeagendas.net/portugal    
 
-* **Sept 2017/Jan 2018** Visiting Researcher, Department of Government  
-    University of Texas, Austin, USA   
+* **2009-PRESENT** One of the Principal investigators for the Italian Policy Agendas Project. This is a joint research project involving the NOVA University of Lisbon and the University of Lecce and Malta https://www.comparativeagendas.net/italy  
 
-* **2014-2018** Principal investigator in the Portuguese team participating in the European project "Political Leaders in European Cities" (Coordinated by the University of Florence) 
-    This project deals with the role of Mayors and the transformation of political representation and careers at the local level.  
-    
-* **2013-2015** Associate researcher for the project "Public preferences and Policy decision-making: a comparative analysis" Project financed by the Fundação para a Ciência e a Tecnologia (PTDC/IVC-CPO/3921/2012)  
-    This project aims at increasing our understanding of democratic party government and the relationship between the public opinion and the agenda-setting process in Portugal.
+* **2016-PRESENT** Researcher in the project “Democracy in times of crisis: Power and Discourse in a three-level game”, Project financed by the Fundação para a Ciência e a Tecnologia (PTDC/IVC-CPO/2247/2014, coordinated by Catherine Moury, FCSH) URL: https://goo.gl/ExHizi   
+
+* **2016-PRESENT** Researcher in the project “Crisis, Political Representation and Democratic Renewal: The Portuguese case in the Southern European context”, Project financed by the Fundação para a Ciência e a Tecnologia (PTDC/IVC-CPO/3098/2014, coordinated by André Freire, Marco Lisi and Emmanouil Tsatsanis, FCSH and ISCTE-IUL) URL: https://goo.gl/HMBMaK   
+
+### PAST PROJECTS
+* **2013-2015** Researcher in the project “Public preferences and Policy decision-making: a comparative analysis” Project financed by the Fundação para a Ciência e a Tecnologia (PTDC/IVC-CPO/3921/2012, coordinated by Ana Belchior, ISCTE-IUL)   
+
+* **2014-2018** Principal investigator in the Portuguese team participating in the European project "Political Leaders in European Cities" (Coordinated by the University of Florence) This project deals with the role of Mayors and the transformation of political representation and careers at the local level.    
     
 * **2010-2012** Co-manager of the ILMA (Italian-Law Making Database)  
     ILMA originated from an idea of a group of scholars affiliated with the Department of Social and Political Studies at the Universit? degli Studi di Milano, and it is one of the scientific products of the Center for the Observation of Legislatures (COoL). It is a relational database that combines information on Italian legislation, roll calls and political elites. It currently covers six Italian legislatures (1987-2008).
     
-* **2010-2012** Member of the research unit of the University of Milan in the project -Institutional agenda setting: Actors, time, information.- co-financed by the Italian Ministry for Research and Higher Education (PRIN 2009, Protocol 2009TPW4NL_002, Principal Investigator: prof. Marco Giuliani).  
-   
-* **2009-PRESENT** Researcher and one of the Principal Investigators for the project "Italian Policy Agendas"  
-    This is a joint research project involving the Universities of Milan, Siena and Malta (https://www.comparativeagendas.net/italy). It aims at exploring the evolution of issue attention in various institutions (media, political parties, parliament, government) and its impact on public policy outcomes using an agenda-setting perspective. It is part of a larger international research network: the "Comparative Agendas Project".
+* **2010-2012** Member of the research unit of the University of Milan in the project -Institutional agenda setting: Actors, time, information.- co-financed by the Italian Ministry for Research and Higher Education (PRIN 2009, Protocol 2009TPW4NL_002, Principal Investigator: prof. Marco Giuliani).   
     
 * **2008-2012**	Researcher in the Italian team participating in the European project "Delors' Myth: The scope and impact of Europeanization on law production". 
-    The project aims are: 1) developing new methods to quantitatively measure the Europeanization of national public policies (i.e. the scope and extent national policies are shaped by EU law and policy); 2) analysing the impact of EU policy-making on the relationship between government and parliament in each of the nine countries under study.  
-    
-* **Feb/Mar 2012** Visiting Fellow Mannheim Centre for European Social Research (MZES)    
-    University of Mannheim, Mannheim, Germany
-    
-* **Jun/Aug 2010** Visiting Fellow, Center for American Politics and Public Policy (CAPPP)    
-    University of Washington, Seattle, USA
+    The project aims are: 1) developing new methods to quantitatively measure the Europeanization of national public policies (i.e. the scope and extent national policies are shaped by EU law and policy); 2) analysing the impact of EU policy-making on the relationship between government and parliament in each of the nine countries under study.   
     
 * **2006** Research assistant at the Research Unit on European Governance (URGE)  
     Collegio Carlo Alberto di Moncalieri, Torino, Italy  
     Key areas of responsibility: review of the literature relevant for URGE projects; assistance in the preparation of manuscripts and reports; management of events organized by URGE.
     
 * **Jan/Aug 2005** 	Research assistant for the project: "Compliance with EU Law: Explaining the Transposition of EU Directives" (Coordinator: Prof. Fabio Franchino)  
-    University College London, Department of Political Science, London, UK  
-    Key areas of responsibility: data collection and maintenance of the database on national transposition of EU directives; review of the literature on EU Compliance; contribution to joint publications.
+    University College London, School of Public Policy, London, UK    
+    Key areas of responsibility: data collection and maintenance of the database on national transposition of EU directives; review of the literature on EU Compliance; contribution to joint publications.   
     
-* **Oct/Dec 2004** 	Research assistant for the project "Political representation and legislative process in the regions and the autonomous provinces in Italy" (Coordinator Prof. Salvatore Vassallo)  
-    Istituto Carlo Cattaneo and Universit? di Bologna, Bologna, Italy  
-    Key areas of responsibility: assistance in drafting the questionnaire; interviews with over 30 members of the Lombardia Regional Council.
+* **Oct/Dec 2004** 	Research assistant for the project "Political representation and legislative process in the regions and the autonomous provinces in Italy" (Coordinator Prof. Salvatore Vassallo)   
+    Istituto Carlo Cattaneo and Universit? di Bologna, Bologna, Italy   
+    Key areas of responsibility: assistance in drafting the questionnaire; interviews with over 30 members of the Lombardia Regional Council.   
     
-* **Nov 2002-Mar 2003**	One World Trust (OWT), London  
-    Internship at OWT, think tank based at the House of Commons in London. OWT undertakes research and education projects to promote global democracy. This internship was an integral part of my undergraduate thesis preparation.
-
-## TEACHING EXPERIENCE
-* **04/02/2019-07/02/2019** Research design  
-    Lisbon Winter School in Research Skills and Methods, NOVA University of Lisbon, 2 ECTS (12 hours)   
-
-* **27/08/2018-05/09/2018** The Essentials of Data Analysis in R (25 hours)
-    Lisbon Summer School, NOVA University of Lisbon
-
-* **21/02/2018-30/05/2018** Politics in challenging times. Populism, protests and the crisis of representation after the Great Recession, Master Course, Nova University of Lisbon, 10 ECTS (44 hours)
-
-* **05/02/2018-08/02/2018** Research design  
-    Lisbon Winter School in Research Skills and Methods, NOVA University of Lisbon, 2 ECTS (12 hours)
-
-* **30/01/2017-02/02/2017** The Essentials of Quantitative Research. Data Analysis in R   
-    Lisbon Winter School in Research Skills and Methods, NOVA University of Lisbon, 2 ECTS (12 hours)    
-
-* **29/8/2016-02/09/2016** The Essentials of Data Analysis in R   
-    Lisbon Summer School, NOVA University of Lisbon (15 hours)
+### VISITING RESEARCH PERIODS
+* **Sept 2017/Jan 2018** Visiting Researcher, Department of Government  
+    University of Texas, Austin, USA   
     
-* **02/03/2016-25/05/2016** The political and social consequences of the Great Recession in Southern Europe,
-    Master Course, Nova University of Lisbon, 10 ECTS (44 hours)
+* **Feb/Mar 2012** Visiting Fellow Mannheim Centre for European Social Research (MZES)    
+    University of Mannheim, Mannheim, Germany
     
-* **07/03/2016-10/03/2016** The Essentials of Quantitative Research. Data Analysis in R   
-    Lisbon Winter School in Research Skills and Methods, NOVA University of Lisbon, 2 ECTS (12 hours)  
-    
-* **09/03/2015-12/03/2015** The Essentials of Quantitative Research. Data Analysis in R   
-    Lisbon Winter School in Research Skills and Methods, NOVA University of Lisbon, 2 ECTS  (12 hours)
+* **Jun/Aug 2010** Visiting Fellow, Center for American Politics and Public Policy (CAPPP)    
+    University of Washington, Seattle, USA
+
+* **Jan/Aug 2005** Visiting Fellow, School of Public Policy    
+    University College London, London, UK   
+  
+## TEACHING EXPERIENCE   
+### WHOLE COURSES:
+* **21/02/2019-30/05/2019** “Parliamentary Studies”, Master Course, FCSH, Nova University of Lisbon, 10 ECTS (44 hours)  
+  
+* **21/02/2019-30/05/2019** Tutorial for undergraduate students “Portuguese Parliament: Agenda-setting and Law-making”, FCSH, Nova University of Lisbon, 6 ECTS (20 hours)    
+  
+* **04/02/2019-07/02/2019** “Research design”, Lisbon Winter School in Research Skills and Methods, FCSH, NOVA University of Lisbon, 2 ECTS (12 hours)   
+  
+* **27/08/2018-05/09/2018** “The Essentials of Data Analysis in R”, Lisbon Summer School, FCSH, NOVA University of Lisbon, 2 ECTS (25 hours)   
    
-* **10/02/2014-13/02/2014** The Essentials of Quantitative Research. Data Analysis in R   
-    Lisbon Winter School in Research Skills and Methods, NOVA University of Lisbon, 2 ECTS  (12 hours)
+* **21/02/2018-30/05/2018** “Politics in challenging times. Populism, protests and the crisis of representation after the Great Recession”, Master Course, FCSH, Nova University of Lisbon, 10 ECTS (44 hours)   
+   
+* **05/02/2018-08/02/2018** “Research design”, Lisbon Winter School in Research Skills and Methods, FCSH, NOVA University of Lisbon, 2 ECTS (12 hours)   
+  
+* **21/02/2017-30/05/2017** Tutorial for undergraduate students “Portuguese Parliament: Agenda-setting and Law-making”, FCSH, Nova University of Lisbon, 6 ECTS (20 hours)         
+  
+* **30/01/2017-02/02/2017** “The Essentials of Quantitative Research. Data Analysis in R” Lisbon Winter School in Research Skills and Methods, FCSH, NOVA University of Lisbon, 2 ECTS (12 hours)    
+  
+* **29/8/2016-02/09/2016** “The Essentials of Data Analysis in R” Lisbon Summer School, FCSH, NOVA University of Lisbon (15 hours)    
+  
+* **02/03/2016-25/05/2016** “The political and social consequences of the Great Recession in Southern Europe”, Master Course, FCSH, Nova University of Lisbon, 10 ECTS (44 hours)    
+  
+* **07/03/2016-10/03/2016** “The Essentials of Quantitative Research. Data Analysis in R” Lisbon Winter School in Research Skills and Methods, FCSH, NOVA University of Lisbon, 2 ECTS (12 hours)     
+  
+* **09/03/2015-12/03/2015** “The Essentials of Quantitative Research. Data Analysis in R” Lisbon Winter School in Research Skills and Methods, FCSH, NOVA University of Lisbon, 2 ECTS (12 hours)    
+  
+* **10/02/2014-13/02/2014** "The Essentials of Quantitative Research. Data Analysis in R" Lisbon Winter School in Research Skills and Methods, NOVA University of Lisbon, 2 ECTS (12 hours)   
+  
+* **03/05/2013-08/05/2013** “Introduction to Event History Analysis with STATA”, Graduate School of the University of Milan, 2 ECTS (12 hours)    
+  
+* **13/02/2013-16/02/2013** “Introduction to Event History Analysis” Lisbon Winter School in Research Skills and Methods, FCSH, NOVA University of Lisbon, 2 ECTS (12 hours)    
+   
 
-* **03/05/2013-08/05/2013** Introduction to Event History Analysis with STATA   
-    Graduate School of the University of Milan, Milan, May 2013 (12 hours)
-     
-* **13/02/2013-16/02/2013** Introduction to Event History Analysis   
-    Lisbon Winter School in Research Skills and Methods, NOVA University of Lisbon, 2 ECTS (12 hours)
+### ONE-OFF CLASSES:   
+* **30/04/2015** “The European Crisis”, class for the cycle of seminars for Master students in “European politics”, FCSH, NOVA University of Lisbon   
+  
+* **15/04/2015** “Europeanization of Portugal”, class for the cycle of seminars for Master students in “Ciência Política e Relações Internacionais”, FCSH, NOVA University of Lisbon   
+  
+* **23/11/2014** “The Portuguese parliament in a comparative perspective”, class for the cycle of seminars for Erasmus students “Portuguese Politics and Society”, FCSH, NOVA University of Lisbon   
+  
+* **28/04/2014** 1-day workshop “The political fallouts of the Great Depression”, ASEU - Jean Monnet Module on Agenda-Setting in the European Union, University of Malta, Malta   
+  
+* **14/11/2013** “The Portuguese parliament in a comparative perspective”, class for the cycle of seminars for Erasmus students “Portuguese Politics and Society”, FCSH, November 2013    
     
-* **2010-2012** Teaching assistant for the postgraduate course "Democratic Governance and Public Administration: The European Union" (Prof.Fabio Franchino)  
-    University of Milan, Faculty of Political Science, Master in Economics and Political Science  
-    Key areas of responsibility: collaboration to course design, supervising students, guest lecturer   
-    
-* **2006-2011** Teaching assistant for the undergraduate course "Introduction to Political Science" (Prof.Fabio Franchino)  
-    University of Milan, Faculty of Political Science, Degree in International studies and European institutions  
-    Key areas of responsibility: preparing and grading exams, supervising students, guest lecturer.  
-    
-## GRANTS AWARDED  
+* **2010-2012** Teaching assistant for the postgraduate course “Democratic Governance and Public Administration: The European Union” (Prof.Fabio Franchino) University of Milan, Faculty of Political Science, Master in Economics and Political Science   
+  
+* **2006-2011** Teaching assistant for the undergraduate course “Introduction to Political Science” (Prof. Fabio Franchino) University of Milan, Faculty of Political Science, Degree in International studies and European institutions   
+  
+
+## GRANTS AWARDED   
+* 2015-20 “Portuguese Parliament: Agenda-setting and Law-making” FCT Investigator Contract and Exploratory Project financed by the Fundação para a Ciência e a Tecnologia (IF/00382/2014)   
+   
+*	2018 Selected for the International Credit Mobility project, under the Erasmus+ programme for a research period at IDC - Interdisciplinary Center Herzliya (IDC), application CM18AC0249    
+   
+*	2016 Contrato Erasmum + - Açâo Chave I – Mobilidade Individual para fins de aprendizagem – Contrato 29191/007/2016/STT   
+   
 * Part of the research team located in Milan university awarded the PRIN funding in both 2007 (prot. scrwt4) and 2009 (prot. 2009TPW4NL_002). PRIN= Research Programs of National Relevance awarded by the Italian Ministry of Education and Research
 
 * Research Unit on European Governance (URGE) - 1-year research grant
@@ -155,17 +173,12 @@ Avenida de Berna, n. 26-C, 1069-061 Lisboa
 
 * 9-month Erasmus scholarship in 2000, University of Sussex, UK
 
-## PUBLICATIONS    
-    
+## PUBLICATIONS  
+
+### ARTICLES IN ACADEMIC JOURNALS  
 *	Borghetto E and Belchior A (Forthcoming) Party manifestos, opposition and media as determinants of the cabinet agenda, Political Studies       
 
 * Borghetto E (2018) Challenger parties in Parliament: the case of the Italian Five Star Movement. Italian Political Science 13(3): 19–32.  
-
-* Belchior AM and Borghetto E (2019) The Portuguese Policy Agendas Project. In: Baumgartner FR, Breunig C, and Grossman E (eds) Comparative Policy Agendas: Theory, Tools, Data. Oxford, New York: Oxford University Press.  
-
-* Borghetto E and Chaques-Bonafont L (2019) Parliamentary Questions. In: Baumgartner FR, Breunig C, and Grossman E (eds) Comparative Policy Agendas: Theory, Tools, Data. Oxford, New York: Oxford University Press.  
-
-* Borghetto E, Carammia M and Russo F (2019) The Italian Agendas Project. In: Baumgartner FR, Breunig C, and Grossman E (eds) Comparative Policy Agendas: Theory, Tools, Data. Oxford, New York: Oxford University Press.   
 
 * Lisi M and Borghetto E (2018) Populism, Blame Shifting and the Crisis: Discourse Strategies in Portuguese Political Parties. South European Society and Politics 23(4): 405–427. DOI: 10.1080/13608746.2018.1558606    
 
@@ -177,43 +190,52 @@ Avenida de Berna, n. 26-C, 1069-061 Lisboa
 
 * Borghetto E (2018) Delegated decree authority in a parliamentary system: the exercise of legislative delegation in Italy (1987–2013). The Journal of Legislative Studies 24(2): 179–196. DOI: 10.1080/13572334.2018.1439441    
 
-* Borghetto E and Russo F (2018) From agenda setters to agenda takers? The determinants of party issue attention in times of crisis. Party Politics 24(1): 65–77. DOI: 10.1177/1354068817740757    
-
-* Koprić I, Hlynsdóttir EM, Džinić J, et al. (2018) Institutional environments and mayors’ role perceptions. In: Heinelt H, Magnier A, Cabria M, et al. (eds) Political Leaders and Changing Local Democracy: The European Mayor. 1st ed. 2018 edition. Palgrave Macmillan, pp. 149–173    
+* Borghetto E and Russo F (2018) From agenda setters to agenda takers? The determinants of party issue attention in times of crisis. Party Politics 24(1): 65–77. DOI: 10.1177/1354068817740757   
 
 * Borghetto E, Visconti F and Michieli M (2017) Government Agenda-Setting in Italian Coalitions. Testing the «Partisan Hypothesis» Using Italian Investiture Speeches 1979- 2014. Rivista Italiana di Politiche Pubbliche (2/2017): 193–220. DOI: 10.1483/87214    
 
-* Borghetto E (2015) Questioning the Government in Time of Crisis. An Analysis of Question Time in Spain. In: Preunkert, J, Baptista L, and Vobruba G (eds) Aftermath. Political and Urban Consequences of the Euro Crisis. Lisbon: Edições Colibri, pp. 91–116.   
-
 * Borghetto E (2015) Challenging Italian centralism through the vertical shift of competences to the subnational and supranational levels. Contemporary Italian Politics 7(1): 58–75. DOI: 10.1080/23248823.2014.1002260.    
-
-* Borghetto E and Carammia M (2015) Party Priorities, Government Formation, and the Making of the Executive Agenda. In: Conti N and Marangoni F (eds) The Challenge of Coalition Government: The Italian Case. Abingdon: Routledge, pp. 36–57.     
-
-* Borghetto E and Visconti F (2015) Governing by revising. A study on post-enactment policy change in Italy. In: Conti N and Marangoni F (eds) The Challenge of Coalition Government: The Italian Case. Abingdon: Routledge, pp. 106–127.     
 
 * Borghetto E (2014) Legislative processes as sequences: Exploring temporal trajectories of Italian law-making by means of sequence analysis. International Review of Administrative Sciences 80(3): 553–76.    
 
-* Borghetto E and Mäder L (2014) EU law revisions and legislative drift. European Union Politics 15(2): 171–191. DOI: 10.1177/1465116513513345     
-
-* Borghetto E, Carammia M and Zucchini F (2014) The Impact of Party Policy Priorities on Italian Law-Making from the First to the Second Republic (1983-2006). In: Walgrave S and Green-Pedersen C (eds) Agenda Setting, Policies, and Political Systems. Chicago: Chicago University Press, pp. 164–182.    
-
-* Borghetto E (2013) Keeping the Pace with Europe: Non-Compliance with the Transposition Deadline of EU Directives in the Italian Case. Novi Ligure: Epoke Edizioni.   
-     
-* Borghetto E, Carammia M and Zucchini F (2014) The Impact of Party Policy Priorities on Italian Law-Making from the First to the Second Republic (1983-2006). In: Walgrave S and Green-Pedersen C (eds) Agenda Setting, Policies, and Political Systems. Chicago: Chicago University Press, pp. 164–182.    
+* Borghetto E and Mäder L (2014) EU law revisions and legislative drift. European Union Politics 15(2): 171–191. DOI: 10.1177/1465116513513345   
 
 * Borghetto E and Giuliani M (2012) A Long Way to Tipperary: Time in the Italian Legislative Process 1987–2008. South European Society and Politics 17(1): 23–44. DOI: 10.1080/13608746.2012.654619.    
 
-* Borghetto E, Giuliani M and Zucchini F (2012) Leading governments and unwilling legislators. The European Union and the Italian Law making (1987-2006). In: Brouard S, Costa O, and König T (eds) The Europeanization of Domestic Legislatures. New York: Springer, pp. 109–130.    
-
+* Borghetto E, Curini L, Giuliani M, et al. (2012) Italian Law-Making Archive: A new tool for the analysis of the Italian legislative process. Rivista Italiana di Scienza Politica 2012(3): 481–502.  
+   
 * Borghetto E and Carammia M (2010) L’analisi comparata delle agende politiche: il Comparative Agendas Project. Rivista Italiana di Scienza Politica 2(Agosto 2010): 301–315.   
 
 * Borghetto E and Franchino F (2010) The Role of Subnational Authorities in the Implementation of EU Directives. Journal Of European Public Policy 17(6): 759–780.
    
 * Borghetto E, Giuliani M and Zucchini F (2009) Quanta Bruxelles c’è a Roma? L’europeizzazione della produzione normativa italiana. Rivista italiana di Politiche Pubbliche 2009(1): 135–162.   
 
-* Borghetto E, Franchino F and Giannetti D (2006) Complying with the transposition deadlines of EU directives: Evidence from Italy. Rivista italiana di Politiche Pubbliche 1(2006): 7–38.     
+* Borghetto E, Franchino F and Giannetti D (2006) Complying with the transposition deadlines of EU directives: Evidence from Italy. Rivista italiana di Politiche Pubbliche 1(2006): 7–38. 
 
-## OTHER RESEARCH OUTPUTS  
+### CHAPTERS IN EDITED BOOKS
+* Belchior AM and Borghetto E (2019) The Portuguese Policy Agendas Project. In: Baumgartner FR, Breunig C, and Grossman E (eds) Comparative Policy Agendas: Theory, Tools, Data. Oxford, New York: Oxford University Press.  
+
+* Borghetto E and Chaques-Bonafont L (2019) Parliamentary Questions. In: Baumgartner FR, Breunig C, and Grossman E (eds) Comparative Policy Agendas: Theory, Tools, Data. Oxford, New York: Oxford University Press.  
+
+* Borghetto E, Carammia M and Russo F (2019) The Italian Agendas Project. In: Baumgartner FR, Breunig C, and Grossman E (eds) Comparative Policy Agendas: Theory, Tools, Data. Oxford, New York: Oxford University Press.   
+   
+* Koprić I, Hlynsdóttir EM, Džinić J, et al. (2018) Institutional environments and mayors’ role perceptions. In: Heinelt H, Magnier A, Cabria M, et al. (eds) Political Leaders and Changing Local Democracy: The European Mayor. 1st ed. 2018 edition. Palgrave Macmillan, pp. 149–173    
+
+* Borghetto E (2015) Questioning the Government in Time of Crisis. An Analysis of Question Time in Spain. In: Preunkert, J, Baptista L, and Vobruba G (eds) Aftermath. Political and Urban Consequences of the Euro Crisis. Lisbon: Edições Colibri, pp. 91–116.   
+
+* Borghetto E and Carammia M (2015) Party Priorities, Government Formation, and the Making of the Executive Agenda. In: Conti N and Marangoni F (eds) The Challenge of Coalition Government: The Italian Case. Abingdon: Routledge, pp. 36–57.     
+
+* Borghetto E and Visconti F (2015) Governing by revising. A study on post-enactment policy change in Italy. In: Conti N and Marangoni F (eds) The Challenge of Coalition Government: The Italian Case. Abingdon: Routledge, pp. 106–127.     
+
+* Borghetto E, Carammia M and Zucchini F (2014) The Impact of Party Policy Priorities on Italian Law-Making from the First to the Second Republic (1983-2006). In: Walgrave S and Green-Pedersen C (eds) Agenda Setting, Policies, and Political Systems. Chicago: Chicago University Press, pp. 164–182.   
+   
+* Borghetto E, Giuliani M and Zucchini F (2012) Leading governments and unwilling legislators. The European Union and the Italian Law making (1987-2006). In: Brouard S, Costa O, and König T (eds) The Europeanization of Domestic Legislatures. New York: Springer, pp. 109–130.    
+
+### BOOKS
+
+* Borghetto E (2013) Keeping the Pace with Europe: Non-Compliance with the Transposition Deadline of EU Directives in the Italian Case. Novi Ligure: Epoke Edizioni.   
+
+### OTHER RESEARCH OUTPUTS  
 * Borghetto E (2018) "Anti-populism", in F.Jos? Eduardo (Ed) Dicion?rio dos Antis. A Cultura Portuguesa em Negativo, Imprensa Nacional-Casa da Moeda  
 
 * Borghetto E (2016) Review ‘Crise Económica, Políticas de Austeridade e Representação Política, Lisboa, Assembleia da República – Divisão de edições, 2015’. Analise Social 219: 462–466    
@@ -226,7 +248,9 @@ Avenida de Berna, n. 26-C, 1069-061 Lisboa
    
 * with Derek Epp. Economic inequality and legislative agendas in Europe [under review]   
 
-*	with André Freire and José Santana Lopes. Constituency Characteristics, Expertise, Civil Society Links and Parliamentary Questions: Evidence from Portugal. Working paper  
+*	with André Freire and José Santana Lopes. Constituency Characteristics, Expertise, Civil Society Links and Parliamentary Questions: Evidence from Portugal. [under review]    
+
+* with	Federico Russo, Elisabetta De Giorgi, Marco Lisi. Persistent politicisation or temporary perturbation? The policy content of question time during and after the peak of the crisis in Italy, Portugal and Spain [under review]   
 
 *	with Marco Lisi. Parliamentary questions and individual representation in a party-dominated environment: evidence from Portugal. Working paper  
    
@@ -347,44 +371,18 @@ Tools for text workshop, University of Washington, Seattle, US
 
 ## OTHER PROFESSIONAL ACTIVITIES
 
-### Academic service  
-* Coordinator for the working group "Citizenship, Work and Technology - Participação Política, Ativismo e Liderança" inside of CICS.NOVA.   
-
-* Member of the Italian Political Science Association (since 2008) and the Portuguese Political Science Association (since 2013).    
-
-*	Co-chair for the 8th annual International Conference of the Comparative Agendas Project, Nova University of Lisbon/ISCTE, 22-24 June 2015. http://www.comparativeagendas.net/pages/2015-conference-in-lisbon-portugal  
-
-* Organizer for the Pedro Hispano Winter School in Research Skills and Methods 2014 and 2015, Lisboa  
-
-* Chair and discussant in the Conference "Transnational public participation and social movement activism", Conference FCSH/CIES, November 2013  
-  
-*	Chair and discussant in the panel "The comparative analysis of policy agendas" organized for the 2011 SISP (Italian Political Science Association) annual conference, Palermo University, Palermo, 8-10 September 2011
-
-*	Member of the organizing committee for the 4th annual International Conference of the Comparative Agendas Project, University of Catania, 23-25 June 2011
-
-*	Chair and discussant in the panel "Agenda-setting e policy making" organized for the 2009 SISP (Italian Political Science Association) annual conference, LUISS University, Roma, 17-19 September 2009
-
-*	Discussant in the "Project Colloquium Seminars", Graduate School of the University of Milan (since 2009)
-
 ### Translation	
 * Il Mulino Publishing House, Bologna  
     Translation from English to Italian of the book "The government and politics of the European Union" by N.Nugent, London: MacMillan (2006, 6° ed.)
 
 ### Peer Review	  
-* European Union Politics  
-* Journal of European Political Research  
-* Political Studies  
-* Comparative political studies  
-* Rivista Italiana di Scienza Politica  
-* Publius  
-* Journal of Legislative Studies  
-* Analise Social  
+https://publons.com/researcher/1429699/enrico-borghetto/ 
 
 ## LANGUAGE SKILLS
 * Proficient user in both written and spoken English (ESOL Certificate in Advanced English) and Portuguese.
 * School knowledge of Spanish, French and German.  
 
-## SPECIAL SKILLS
+## OTHER SKILLS
 * R, Rmarkdown 
 * Ms Office
 * SQL
