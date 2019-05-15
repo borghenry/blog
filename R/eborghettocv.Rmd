@@ -5,6 +5,7 @@ fontfamily: mathpazo
 output:
   html_document:
     toc: true
+    toc_float: true  
     theme: united
   word_document:
     toc: true
@@ -95,6 +96,9 @@ Avenida de Berna, n. 26-C, 1069-061 Lisboa
     Key areas of responsibility: assistance in drafting the questionnaire; interviews with over 30 members of the Lombardia Regional Council.   
     
 ### VISITING RESEARCH PERIODS
+* **May 2019** Visiting Researcher, IDC Herzliya    
+    Tel Aviv, Israel      
+    
 * **Sept 2017/Jan 2018** Visiting Researcher, Department of Government  
     University of Texas, Austin, USA   
     
@@ -264,11 +268,13 @@ Avenida de Berna, n. 26-C, 1069-061 Lisboa
 
    
 ## CONFERENCE PAPERS (A SELECTION)  
-* "The issue strategies of niche parties between elections: an analysis of question time in six countries."" ECPR General Conference, Hamburg, 2018.    
+* “Legislative Agendas in an Age of Inequality” Lauder School Faculty Seminar, IDC Herzliya, Israel, May 2019   
+    
+* "The issue strategies of niche parties between elections: an analysis of question time in six countries." ECPR General Conference, Hamburg, 2018.    
 
 * "What kind of democrats? Ideological and generational gaps in forms of support for democracy in Southern Europe in the aftermath of the economic crisis". ECPR General Conference, Hamburg, 2018.    
 
-* Enrico Borghetto, Julie Sevenans, Emiliano Grossman. Seeking information or pressing for action: analysing the function of parliamentary questions in a comparative perspective." Comparative Agendas Project, Amsterdam, 2018.    
+* "Seeking information or pressing for action: analysing the function of parliamentary questions in a comparative perspective." Comparative Agendas Project, Amsterdam, 2018.    
 
 * "Economic inequality and legislative agendas in Europe" 18-20 April 2018, Conference of the Portuguese Political Science Association, Braga   
 
