@@ -7,6 +7,7 @@
 <meta charset="utf-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 <meta name="author" content="Enrico Borghetto" />
@@ -74,8 +75,6 @@ overflow: auto;
 margin-left: 2%;
 position: fixed;
 border: 1px solid #ccc;
-webkit-border-radius: 6px;
-moz-border-radius: 6px;
 border-radius: 6px;
 }
 
@@ -103,9 +102,14 @@ font-size: 12px;
 .tocify-subheader .tocify-subheader {
 text-indent: 30px;
 }
-
 .tocify-subheader .tocify-subheader .tocify-subheader {
 text-indent: 40px;
+}
+.tocify-subheader .tocify-subheader .tocify-subheader .tocify-subheader {
+text-indent: 50px;
+}
+.tocify-subheader .tocify-subheader .tocify-subheader .tocify-subheader .tocify-subheader {
+text-indent: 60px;
 }
 
 .tocify .tocify-item > a, .tocify .nav-list .nav-header {
@@ -509,13 +513,13 @@ float: none;
 
           item.append($("<a/>", {
 
-            "text": self.text()
+            "html": self.html()
 
           }));
 
         } else {
 
-          item.text(self.text());
+          item.html(self.html());
 
         }
 
@@ -1346,7 +1350,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -1420,48 +1423,9 @@ summary {
 }
 </style>
 
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
-
 <!-- code folding -->
 
 
-
-<script>
-$(document).ready(function ()  {
-
-    // move toc-ignore selectors from section div to header
-    $('div.section.toc-ignore')
-        .removeClass('toc-ignore')
-        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
-
-    // establish options
-    var options = {
-      selectors: "h1,h2,h3",
-      theme: "bootstrap3",
-      context: '.toc-content',
-      hashGenerator: function (text) {
-        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
-      },
-      ignoreSelector: ".toc-ignore",
-      scrollTo: 0
-    };
-    options.showAndHide = true;
-    options.smoothScroll = true;
-
-    // tocify
-    var toc = $("#TOC").tocify(options).data("toc-tocify");
-});
-</script>
 
 <style type="text/css">
 
@@ -1510,8 +1474,6 @@ div.tocify {
 
 .tocify-subheader .tocify-item {
   font-size: 0.90em;
-  padding-left: 25px;
-  text-indent: 0;
 }
 
 .tocify .list-group-item {
@@ -1553,7 +1515,7 @@ div.tocify {
 </div>
 
 
-<p>Last updated: 2019-05-15</p>
+<p>Last updated: 2019-09-20</p>
 <div id="work-address" class="section level2">
 <h2>WORK ADDRESS</h2>
 <p>Interdisciplinary Centre of Social Sciences - CICS.NOVA<br />
@@ -1666,9 +1628,10 @@ University College London, London, UK</p></li>
 </ul>
 </div>
 </div>
-<div id="grants-awarded" class="section level2">
-<h2>GRANTS AWARDED</h2>
+<div id="grants-and-awards" class="section level2">
+<h2>GRANTS AND AWARDS</h2>
 <ul>
+<li><p>2019 “Carlo Maria Santoro” Award for best paper presented in the 2018 Annual Conference of the Italian Political Science Association</p></li>
 <li><p>2015-20 “Portuguese Parliament: Agenda-setting and Law-making” FCT Investigator Contract and Exploratory Project financed by the Fundação para a Ciência e a Tecnologia (IF/00382/2014)</p></li>
 <li><p>2018 Selected for the International Credit Mobility project, under the Erasmus+ programme for a research period at IDC - Interdisciplinary Center Herzliya (IDC), application CM18AC0249</p></li>
 <li><p>2016 Contrato Erasmum + - Açâo Chave I – Mobilidade Individual para fins de aprendizagem – Contrato 29191/007/2016/STT</p></li>
@@ -1739,26 +1702,32 @@ University College London, London, UK</p></li>
 <ul>
 <li><p>with Derek Epp. Economic inequality and legislative agendas in Europe [under review]</p></li>
 <li><p>with André Freire and José Santana Lopes. Constituency Characteristics, Expertise, Civil Society Links and Parliamentary Questions: Evidence from Portugal. [under review]</p></li>
-<li><p>with Federico Russo, Elisabetta De Giorgi, Marco Lisi. Persistent politicisation or temporary perturbation? The policy content of question time during and after the peak of the crisis in Italy, Portugal and Spain [under review]</p></li>
-<li><p>with Marco Lisi. Parliamentary questions and individual representation in a party-dominated environment: evidence from Portugal. Working paper</p></li>
-<li><p>with Ana Belchior. The transmission of policy agendas. The effect of party competition on the gap between electoral priorities and policy outputs. Working paper</p></li>
+<li><p>with Emmanouil Tsatsanis, José Ramón Montero, André Freire. What kind of democrats? Ideological and generational gaps in forms of support for democracy in Southern Europe in the aftermath of the economic crisis. [under review]</p></li>
+<li><p>with Julie Sevenans, Emiliano Grossman. Seeking information or pressing for action: analysing the function of parliamentary questions in a comparative perspective. [under review]</p></li>
+<li><p>with Federico Russo, Marco Lisi. Persistent politicisation or temporary perturbation? The policy content of question time during and after the peak of the crisis in Italy, Portugal and Spain</p></li>
+<li>with Marco Lisi. Parliamentary questions and individual representation in a party-dominated environment: evidence from Portugal. Working paper<br />
+</li>
 <li><p>The issue strategies of niche parties between elections: an analysis of question time in six countries. Working paper</p></li>
-<li><p>with Emmanouil Tsatsanis, José Ramón Montero, André Freire. What kind of democrats? Ideological and generational gaps in forms of support for democracy in Southern Europe in the aftermath of the economic crisis. Working paper</p></li>
-<li><p>with Julie Sevenans, Emiliano Grossman. Seeking information or pressing for action: analysing the function of parliamentary questions in a comparative perspective. Working paper</p></li>
+<li><p>with Kartalis Yani, The Parliamentary Scrutiny of EU Affairs after the Eurocrisis: Evidence from Southern Europe. Working paper</p></li>
+<li><p>with Amnon Cavari, Maoz Rosenthal, Ilana Shpizeman, Gilad Greenwald, Private Member’s bills in the Knesset. Working paper</p></li>
 </ul>
 </div>
 <div id="conference-papers-a-selection" class="section level2">
 <h2>CONFERENCE PAPERS (A SELECTION)</h2>
 <ul>
-<li><p>“Legislative Agendas in an Age of Inequality” Lauder School Faculty Seminar, IDC Herzliya, Israel, May 2019</p></li>
-<li><p>“The issue strategies of niche parties between elections: an analysis of question time in six countries.” ECPR General Conference, Hamburg, 2018.</p></li>
-<li><p>“What kind of democrats? Ideological and generational gaps in forms of support for democracy in Southern Europe in the aftermath of the economic crisis”. ECPR General Conference, Hamburg, 2018.</p></li>
-<li><p>“Seeking information or pressing for action: analysing the function of parliamentary questions in a comparative perspective.” Comparative Agendas Project, Amsterdam, 2018.</p></li>
+<li><p>“The impact of the crisis on issue competition in Italy, Portugal and Spain: evidence from an analysis of question time”, September 2019, Annual Conference of the Italian Political Science Association, Lecce</p></li>
+<li><p>“The Parliamentary Scrutiny of EU Affairs after the Eurocrisis: Evidence from Southern Europe”, September 2019, ECPR General Conference 2019, Wroclaw</p></li>
+<li><p>“The ‘Invisible’ Local Representation: District-Based Representation in a One-District Electoral System”, June 2019, Comparative Agendas Project, Budapest</p></li>
+<li><p>“True to your past or looking ahead: the dynamics of government agenda-setting”, June 2019, Comparative Agendas Project, Budapest</p></li>
+<li><p>“Legislative Agendas in an Age of Inequality”, May 2019, Lauder School Faculty Seminar, IDC Herzliya, Israel</p></li>
+<li><p>“The issue strategies of niche parties between elections: an analysis of question time in six countries.”,September 2018, ECPR General Conference, Hamburg</p></li>
+<li><p>“What kind of democrats? Ideological and generational gaps in forms of support for democracy in Southern Europe in the aftermath of the economic crisis”, September 2018, ECPR General Conference, Hamburg</p></li>
+<li><p>“Seeking information or pressing for action: analysing the function of parliamentary questions in a comparative perspective.”, July 2018, Comparative Agendas Project, Amsterdam</p></li>
 <li><p>“Economic inequality and legislative agendas in Europe” 18-20 April 2018, Conference of the Portuguese Political Science Association, Braga</p></li>
-<li><p>“Constituency characteristics, civil society links and topic selection by individual legislators: Evidence from Portugal” 10-14 April 2018, ECPR Joint Session, Nicosia</p></li>
-<li><p>“The determinants of the executive weekly agenda in Portugal: party mandates vs media attention” 6th December, 2017, University of Texas, Austin</p></li>
+<li><p>“Constituency characteristics, civil society links and topic selection by individual legislators: Evidence from Portugal”, April 2018, ECPR Joint Session, Nicosia</p></li>
+<li><p>“The determinants of the executive weekly agenda in Portugal: party mandates vs media attention”, 6th December, 2017, University of Texas, Austin</p></li>
 <li><p>“The Five-Star Movement in Parliament: a Truly New Kind of Parliamentary Opposition?”, 14-16 September 2017, Annual Conference of the Italian Political Science Association, Urbino</p></li>
-<li><p>“Constituency Characteristics, Expertise, Civil Society Links and Parliamentary Questions: Evidence from Portugal.” 6-9 September 2017, ECPR General Conference, Oslo</p></li>
+<li><p>“Constituency Characteristics, Expertise, Civil Society Links and Parliamentary Questions: Evidence from Portugal.”, 6-9 September 2017, ECPR General Conference, Oslo</p></li>
 <li><p>“Populism, blame shifting and the crisis: communication strategies in Portuguese political parties”, 6-9 September 2017, ECPR General Conference, Oslo</p></li>
 <li><p>“The determinants of the executive weekly agenda in Portugal: party mandates vs media attention” June 15-17, 2017, Annual Conference of the Comparative Agendas network, Edinburgh</p></li>
 <li><p>“Delegated decree authority in a parliamentary system. The exercise of legislative delegation in Italy” (1987-2013), 15-17 September 2016, SISP Annual Conference, University of Milan</p></li>
@@ -1861,6 +1830,49 @@ $(document).ready(function () {
 });
 
 
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
 </script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
