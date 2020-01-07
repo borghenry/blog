@@ -30,21 +30,24 @@ df <- Sys.Date()
 Last updated: `r Sys.Date()`
 
 ## WORK ADDRESS
-Interdisciplinary Centre of Social Sciences - CICS.NOVA   
-NOVA University of Lisbon  
-Avenida de Berna, n. 26-C, 1069-061 Lisboa
+Instituto Português de Relações Internacionais (IPRI)    
+Faculty of Human and Social Sciences   
+NOVA University of Lisbon    
+Avenida de Berna, n. 26-C, 1069-061 Lisboa    
 
 ## ACADEMIC APPOINTMENTS
-* **03/2015-PRESENT**	FCT investigator, public contract at the Faculty of Social and Human Sciences (FCSH) funded by the Fundação para a Ciência e a Tecnologia  IF/00382/2014) at CICS.NOVA,  FCSH 
-    University NOVA of Lisbon, Portugal  
-    
-* **01/2013-02/2015**	Postdoctoral Researcher at CESNOVA, FCSH, with a project entitled "The policy agenda at the time of crisis in Europe's periphery" (Bolsas de Pós-Doutoramento (BPD) funded by the Fundação para a Ciência e a Tecnologia, SFRH/BPD/89968/2012)  
-    University NOVA of Lisbon, Portugal
-    
-* **11/2008-11/2012**	Postdoctoral Researcher, Department of Social and Political Studies with a project entitled "The europeanisation of executive-legislative relations: national parliaments and Community legislation"  
-    University of Milan, Milano, Italy
+* **11/2019-PRESENT**	Researcher, contract funded by the Fundação para a Ciência e a Tecnologia at IPRI, Faculty of Social and Human Sciences (FCSH)  
+University NOVA of Lisbon, Portugal  
 
-
+* **03/2015-10/2019**	FCT investigator, contract funded by the Fundação para a Ciência e a Tecnologia (IF/00382/2014) at CICS.NOVA, Faculty of Social and Human Sciences (FCSH)  
+University NOVA of Lisbon, Portugal   
+    
+* **01/2013-02/2015**	Postdoctoral Researcher at CESNOVA, FCSH, with a project entitled "The policy agenda at the time of crisis in Europe's periphery" (Bolsas de Pós-Doutoramento (BPD) funded by the Fundação para a Ciência e a Tecnologia, SFRH/BPD/89968/2012)   
+University NOVA of Lisbon, Portugal   
+    
+* **11/2008-11/2012**	Postdoctoral Researcher, Department of Social and Political Studies with a project entitled "The europeanisation of executive-legislative relations: national parliaments and Community legislation"   
+University of Milan, Milano, Italy   
+    
 ## EDUCATION
 * **09/2003-07/2007**	Ph.D. in Political Studies  
     Graduate School in Social, Economic and Political Sciences of the University of Milan  
@@ -76,7 +79,7 @@ Avenida de Berna, n. 26-C, 1069-061 Lisboa
 * **2014-2018** Principal investigator in the Portuguese team participating in the European project "Political Leaders in European Cities" (Coordinated by the University of Florence) This project deals with the role of Mayors and the transformation of political representation and careers at the local level.    
     
 * **2010-2012** Co-manager of the ILMA (Italian-Law Making Database)  
-    ILMA originated from an idea of a group of scholars affiliated with the Department of Social and Political Studies at the Universit? degli Studi di Milano, and it is one of the scientific products of the Center for the Observation of Legislatures (COoL). It is a relational database that combines information on Italian legislation, roll calls and political elites. It currently covers six Italian legislatures (1987-2008).
+    ILMA originated from an idea of a group of scholars affiliated with the Department of Social and Political Studies at the Universita' degli Studi di Milano, and it is one of the scientific products of the Center for the Observation of Legislatures (COoL). It is a relational database that combines information on Italian legislation, roll calls and political elites. It currently covers six Italian legislatures (1987-2008).
     
 * **2010-2012** Member of the research unit of the University of Milan in the project -Institutional agenda setting: Actors, time, information.- co-financed by the Italian Ministry for Research and Higher Education (PRIN 2009, Protocol 2009TPW4NL_002, Principal Investigator: prof. Marco Giuliani).   
     
@@ -92,7 +95,7 @@ Avenida de Berna, n. 26-C, 1069-061 Lisboa
     Key areas of responsibility: data collection and maintenance of the database on national transposition of EU directives; review of the literature on EU Compliance; contribution to joint publications.   
     
 * **Oct/Dec 2004** 	Research assistant for the project "Political representation and legislative process in the regions and the autonomous provinces in Italy" (Coordinator Prof. Salvatore Vassallo)   
-    Istituto Carlo Cattaneo and Universit? di Bologna, Bologna, Italy   
+    Istituto Carlo Cattaneo and Universita' di Bologna, Bologna, Italy   
     Key areas of responsibility: assistance in drafting the questionnaire; interviews with over 30 members of the Lombardia Regional Council.   
     
 ### VISITING RESEARCH PERIODS
@@ -113,6 +116,8 @@ Avenida de Berna, n. 26-C, 1069-061 Lisboa
   
 ## TEACHING EXPERIENCE   
 ### WHOLE COURSES:
+* **03/10/2019-17/12/2019** Course for PhD students “The Maestri of Political Science”, FCSH, Nova University of Lisbon (20 hours)   
+
 * **21/02/2019-30/05/2019** “Parliamentary Studies”, Master Course, FCSH, Nova University of Lisbon, 10 ECTS (44 hours)  
   
 * **21/02/2019-30/05/2019** Tutorial for undergraduate students “Portuguese Parliament: Agenda-setting and Law-making”, FCSH, Nova University of Lisbon, 6 ECTS (20 hours)    
@@ -145,6 +150,8 @@ Avenida de Berna, n. 26-C, 1069-061 Lisboa
    
 
 ### ONE-OFF CLASSES:   
+* **30/10/2019** “Populism”, class for the undergraduate course in Sociology, FCSH, NOVA University of Lisbon   
+
 * **30/04/2015** “The European Crisis”, class for the cycle of seminars for Master students in “European politics”, FCSH, NOVA University of Lisbon   
   
 * **15/04/2015** “Europeanization of Portugal”, class for the cycle of seminars for Master students in “Ciência Política e Relações Internacionais”, FCSH, NOVA University of Lisbon   
@@ -242,7 +249,7 @@ Avenida de Berna, n. 26-C, 1069-061 Lisboa
 * Borghetto E (2013) Keeping the Pace with Europe: Non-Compliance with the Transposition Deadline of EU Directives in the Italian Case. Novi Ligure: Epoke Edizioni.   
 
 ### OTHER RESEARCH OUTPUTS  
-* Borghetto E (2018) "Anti-populism", in F.Jos? Eduardo (Ed) Dicion?rio dos Antis. A Cultura Portuguesa em Negativo, Imprensa Nacional-Casa da Moeda  
+* Borghetto E (2018) "Anti-populism", in F.José Eduardo (Ed) Dicionário dos Antis. A Cultura Portuguesa em Negativo, Imprensa Nacional-Casa da Moeda  
 
 * Borghetto E (2016) Review ‘Crise Económica, Políticas de Austeridade e Representação Política, Lisboa, Assembleia da República – Divisão de edições, 2015’. Analise Social 219: 462–466    
 
