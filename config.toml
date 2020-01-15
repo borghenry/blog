@@ -60,7 +60,7 @@ defaultContentLanguageInSubdir = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "EborghettoPic.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "enrico.borghetto@fcsh.unl.pt"
-  address = "Interdisciplinary Centre of Social Sciences – CICS.NOVA, NOVA University of Lisbon, Avenida de Berna, n.º 26-C, 1069 – 061 Lisboa, Portugal"
+  address = "Nova FCSH, Colegio Almada Negreiros, Campus de Campolide, IPRI, Sala 314, 1070-312 Lisboa"
   office_hours = "Please send an email"
   skype = "borghenry"
 
@@ -92,10 +92,10 @@ defaultContentLanguageInSubdir = false
   #   3: OpenStreetMap (Mapbox)
   map = 2
   map_api_key = ""
-  latitude = "38.739954"
-  longitude = "-9.152065"
+  latitude = "38.732849"
+  longitude = "-9.160762"
   zoom = 15
-
+  
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
   date_format = "2006-01-02"

@@ -15,9 +15,11 @@ weight = 60
 
 +++
 
-I am a teaching the following courses in the second semester of the 2018-2019 academic year:
+I am a teaching the following courses in the 2019-2020 academic year:
 
-- {{% staticref "pdf/Syllabus-Parliamentary-Studies-13-03-2019.pdf" "newtab" %}} Parliamentary studies {{% /staticref %}}. The politics of legislative bodies (10 ECTS credits)     
+- [Análise Política Comparada](https://guia.unl.pt/pt/2019/fcsh/program/4017/course/711071000) (6 ECTS credits, undergraduate, second semester)     
    
-- [Research Design](http://fcsh.unl.pt/escola-doutoral/lisbon-winter-school/edition-courses/copy3_of_course-2.-the-essentials-of-quantitative-research.-data-analysis-in-r). Lisbon Winter School in Research Skills and Methods (2 ECTS credits)     
+- [Research Design](https://www.fcsh.unl.pt/escola-doutoral/lisbon-winter-school/research-design/). Lisbon Winter School in Research Skills and Methods (2 ECTS credits)     
+
+- Course for PhD students “The Maestri of Political Science”, FCSH, Nova University of Lisbon (20 hours, first semester)   
 
