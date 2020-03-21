@@ -31,7 +31,7 @@ Last updated: `r Sys.Date()`
 
 ## WORK ADDRESS
 Instituto Português de Relações Internacionais (IPRI)    
-Faculty of Human and Social Sciences   
+Faculty of Human and Social Science   
 NOVA University of Lisbon    
 Avenida de Berna, n. 26-C, 1069-061 Lisboa    
 
@@ -195,7 +195,7 @@ University of Milan, Milano, Italy
 ### ARTICLES IN ACADEMIC JOURNALS
 * Epp DA and Borghetto E (forthcoming) Legislative Agendas during Periods of Inequality: Evidence from Europe and the United States. Journal of European Public Policy.   
 
-* Borghetto E, Santana‐Pereira J and Freire A (online first) Parliamentary Questions as an Instrument for Geographic Representation: The Hard Case of Portugal. Swiss Political Science Review n/a(n/a). DOI: 10.1111/spsr.12387.    
+* Borghetto E, Santana‐Pereira J and Freire A (2020) Parliamentary Questions as an Instrument for Geographic Representation: The Hard Case of Portugal. Swiss Political Science Review 26(1): 10-30. DOI: 10.1111/spsr.12387.    
 
 *	Borghetto E and Belchior AM (2020) Party Manifestos, Opposition and Media as Determinants of the Cabinet Agenda. Political Studies 68(1): 37–53. DOI: 10.1177/0032321718820738.   
 
